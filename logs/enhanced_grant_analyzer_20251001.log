@@ -1,0 +1,8 @@
+2025-10-01 10:04:23,948 - __main__ - INFO - Enhanced Grant Analyzer Initialized
+2025-10-01 10:04:23,948 - __main__ - INFO - Starting enhanced grant analysis
+2025-10-01 10:04:23,950 - __main__ - INFO - Loaded 223 grants from /home/ubuntu/grant_automation/data/enhanced_grants_discovery_20251001_100416.json
+2025-10-01 10:04:23,950 - __main__ - INFO - Enriching grant data with business-specific analysis
+2025-10-01 10:04:23,954 - __main__ - INFO - Enriched 223 grants with business-specific data
+2025-10-01 10:04:24,731 - __main__ - INFO - Enhanced Excel analysis exported to /home/ubuntu/grant_automation/reports/enhanced_grants_analysis_20251001_100423.xlsx
+2025-10-01 10:04:24,739 - __main__ - INFO - Enhanced markdown report generated: /home/ubuntu/grant_automation/reports/enhanced_grants_report_20251001_100424.md
+2025-10-01 10:04:24,745 - __main__ - INFO - Enhanced grant analysis completed successfully

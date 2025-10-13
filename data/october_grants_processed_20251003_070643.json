@@ -1,0 +1,4624 @@
+{
+  "processing_summary": {
+    "total_grants_processed": 125,
+    "relevant_grants_found": 77,
+    "by_business_category": {
+      "minority_business": 2,
+      "financial_literacy": 2,
+      "technology": 15,
+      "youth_empowerment": 25,
+      "community_development": 33
+    },
+    "by_priority": {
+      "HIGH": 29,
+      "MEDIUM": 15,
+      "LOW": 33
+    },
+    "top_grants": [
+      {
+        "name": "Georgia Department of Community Affairs",
+        "original_category": "Community Development",
+        "business_category": "community_development",
+        "amount": "$$250,000 - $$2,500,000",
+        "grant_type": "Monetary",
+        "deadline": "10/11/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 1,
+          "financial_literacy": 2,
+          "technology": 1,
+          "youth_empowerment": 0,
+          "community_development": 5,
+          "overall_score": 9
+        },
+        "relevance_score": 9,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.541696",
+        "priority": "HIGH",
+        "focus": "Community development and local impact - Community Development",
+        "keywords": [
+          "neighborhood",
+          "local impact",
+          "community",
+          "community development"
+        ]
+      },
+      {
+        "name": "National Association Of Realtors",
+        "original_category": "Community Development",
+        "business_category": "community_development",
+        "amount": "Up to $$15,000",
+        "grant_type": "Monetary",
+        "deadline": "10/15/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 1,
+          "financial_literacy": 2,
+          "technology": 0,
+          "youth_empowerment": 0,
+          "community_development": 5,
+          "overall_score": 8
+        },
+        "relevance_score": 8,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.541711",
+        "priority": "HIGH",
+        "focus": "Community development and local impact - Community Development",
+        "keywords": [
+          "neighborhood",
+          "local impact",
+          "community development"
+        ]
+      },
+      {
+        "name": "Community Foundation of the Chattahoochee Valley",
+        "original_category": "Community Development",
+        "business_category": "community_development",
+        "amount": "$$10,000 - $$25,000",
+        "grant_type": "Monetary",
+        "deadline": "",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 1,
+          "financial_literacy": 2,
+          "technology": 0,
+          "youth_empowerment": 0,
+          "community_development": 5,
+          "overall_score": 8
+        },
+        "relevance_score": 8,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.541725",
+        "priority": "HIGH",
+        "focus": "Community development and local impact - Community Development",
+        "keywords": [
+          "neighborhood",
+          "local impact",
+          "community",
+          "community development"
+        ]
+      },
+      {
+        "name": "Lawrence Foundation",
+        "original_category": "Community Development",
+        "business_category": "community_development",
+        "amount": "More than $$5,000",
+        "grant_type": "Monetary",
+        "deadline": "",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 1,
+          "financial_literacy": 2,
+          "technology": 0,
+          "youth_empowerment": 0,
+          "community_development": 5,
+          "overall_score": 8
+        },
+        "relevance_score": 8,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.541740",
+        "priority": "HIGH",
+        "focus": "Community development and local impact - Community Development",
+        "keywords": [
+          "neighborhood",
+          "local impact",
+          "community development"
+        ]
+      },
+      {
+        "name": "The Union Home Foundation Inc",
+        "original_category": "Community Development",
+        "business_category": "community_development",
+        "amount": "$$1,000 - $$10,000",
+        "grant_type": "Monetary",
+        "deadline": "11/15/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 1,
+          "financial_literacy": 2,
+          "technology": 0,
+          "youth_empowerment": 0,
+          "community_development": 5,
+          "overall_score": 8
+        },
+        "relevance_score": 8,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.541753",
+        "priority": "HIGH",
+        "focus": "Community development and local impact - Community Development",
+        "keywords": [
+          "neighborhood",
+          "local impact",
+          "community development"
+        ]
+      },
+      {
+        "name": "Avion Solutions Inc",
+        "original_category": "Community Development",
+        "business_category": "community_development",
+        "amount": "$$5,000",
+        "grant_type": "Monetary",
+        "deadline": "11/30/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 1,
+          "financial_literacy": 2,
+          "technology": 0,
+          "youth_empowerment": 0,
+          "community_development": 5,
+          "overall_score": 8
+        },
+        "relevance_score": 8,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.541770",
+        "priority": "HIGH",
+        "focus": "Community development and local impact - Community Development",
+        "keywords": [
+          "neighborhood",
+          "local impact",
+          "community development"
+        ]
+      },
+      {
+        "name": "Equity in Mathematics Grant (PK-6)",
+        "original_category": "Education",
+        "business_category": "youth_empowerment",
+        "amount": "Up to $$8,000",
+        "grant_type": "Monetary",
+        "deadline": "11/1/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 1,
+          "financial_literacy": 1,
+          "technology": 0,
+          "youth_empowerment": 3,
+          "community_development": 0,
+          "overall_score": 5
+        },
+        "relevance_score": 5,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.540903",
+        "priority": "HIGH",
+        "focus": "Youth development and educational support - Education",
+        "keywords": [
+          "youth development",
+          "education",
+          "learning"
+        ]
+      },
+      {
+        "name": "Equity in Mathematics Grants (6-12)",
+        "original_category": "Education",
+        "business_category": "youth_empowerment",
+        "amount": "Up to $$8,000",
+        "grant_type": "Monetary",
+        "deadline": "11/1/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 1,
+          "financial_literacy": 1,
+          "technology": 0,
+          "youth_empowerment": 3,
+          "community_development": 0,
+          "overall_score": 5
+        },
+        "relevance_score": 5,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.540918",
+        "priority": "HIGH",
+        "focus": "Youth development and educational support - Education",
+        "keywords": [
+          "youth development",
+          "education",
+          "learning"
+        ]
+      },
+      {
+        "name": "Office of Elementary and Secondary Education (OESE): Office of Migrant Education (OME): High School Equivalency Program (HEP), Assistance Listing Numbers 84.141A",
+        "original_category": "Education",
+        "business_category": "youth_empowerment",
+        "amount": "$$180,000 - $$475,000",
+        "grant_type": "Monetary",
+        "deadline": "11/13/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 0,
+          "financial_literacy": 1,
+          "technology": 0,
+          "youth_empowerment": 4,
+          "community_development": 0,
+          "overall_score": 5
+        },
+        "relevance_score": 5,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.540951",
+        "priority": "HIGH",
+        "focus": "Youth development and educational support - Education",
+        "keywords": [
+          "program",
+          "youth development",
+          "education",
+          "learning"
+        ]
+      },
+      {
+        "name": "Macon Area Habitat for Humanity Sustainability Fund Grant",
+        "original_category": "Education",
+        "business_category": "youth_empowerment",
+        "amount": "Up to $$500",
+        "grant_type": "Monetary",
+        "deadline": "12/31/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 0,
+          "financial_literacy": 1,
+          "technology": 1,
+          "youth_empowerment": 3,
+          "community_development": 0,
+          "overall_score": 5
+        },
+        "relevance_score": 5,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.541130",
+        "priority": "HIGH",
+        "focus": "Youth development and educational support - Education",
+        "keywords": [
+          "youth development",
+          "education",
+          "learning"
+        ]
+      }
+    ],
+    "processing_date": "2025-10-03T07:06:43.542224"
+  },
+  "relevant_grants": [
+    {
+      "name": "Community Foundation for Greater Atlanta",
+      "original_category": "Arts and Culture",
+      "business_category": "community_development",
+      "amount": "$25,000",
+      "grant_type": "Monetary",
+      "deadline": "10/11/2024",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 0,
+        "financial_literacy": 0,
+        "technology": 0,
+        "youth_empowerment": 0,
+        "community_development": 1,
+        "overall_score": 1
+      },
+      "relevance_score": 1,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.540654",
+      "priority": "LOW",
+      "focus": "Community development and local impact - Arts and Culture",
+      "keywords": [
+        "community",
+        "local impact",
+        "neighborhood",
+        "arts and culture",
+        "community development"
+      ]
+    },
+    {
+      "name": "Community Foundation of Central Georgia",
+      "original_category": "Arts and Culture",
+      "business_category": "community_development",
+      "amount": "$5,000",
+      "grant_type": "Monetary",
+      "deadline": "10/15/2024",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 0,
+        "financial_literacy": 0,
+        "technology": 0,
+        "youth_empowerment": 0,
+        "community_development": 1,
+        "overall_score": 1
+      },
+      "relevance_score": 1,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.540705",
+      "priority": "LOW",
+      "focus": "Community development and local impact - Arts and Culture",
+      "keywords": [
+        "community",
+        "local impact",
+        "neighborhood",
+        "arts and culture",
+        "community development"
+      ]
+    },
+    {
+      "name": "Community Foundation of South Georgia",
+      "original_category": "Arts and Culture",
+      "business_category": "community_development",
+      "amount": "$5,000",
+      "grant_type": "Monetary",
+      "deadline": "10/16/2024",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 0,
+        "financial_literacy": 0,
+        "technology": 0,
+        "youth_empowerment": 0,
+        "community_development": 1,
+        "overall_score": 1
+      },
+      "relevance_score": 1,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.540752",
+      "priority": "LOW",
+      "focus": "Community development and local impact - Arts and Culture",
+      "keywords": [
+        "community",
+        "local impact",
+        "neighborhood",
+        "arts and culture",
+        "community development"
+      ]
+    },
+    {
+      "name": "Community Foundation for the Central Savannah River Area",
+      "original_category": "Arts and Culture",
+      "business_category": "community_development",
+      "amount": "unspecified",
+      "grant_type": "Monetary",
+      "deadline": "10/27/2024",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 0,
+        "financial_literacy": 0,
+        "technology": 0,
+        "youth_empowerment": 0,
+        "community_development": 1,
+        "overall_score": 1
+      },
+      "relevance_score": 1,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.540793",
+      "priority": "LOW",
+      "focus": "Community development and local impact - Arts and Culture",
+      "keywords": [
+        "community",
+        "local impact",
+        "neighborhood",
+        "arts and culture",
+        "community development"
+      ]
+    },
+    {
+      "name": "Community Foundation for Greater Rome",
+      "original_category": "Arts and Culture",
+      "business_category": "community_development",
+      "amount": "$25,000",
+      "grant_type": "Monetary",
+      "deadline": "11/1/2024",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 0,
+        "financial_literacy": 0,
+        "technology": 0,
+        "youth_empowerment": 0,
+        "community_development": 1,
+        "overall_score": 1
+      },
+      "relevance_score": 1,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.540842",
+      "priority": "LOW",
+      "focus": "Community development and local impact - Arts and Culture",
+      "keywords": [
+        "community",
+        "local impact",
+        "neighborhood",
+        "arts and culture",
+        "community development"
+      ]
+    },
+    {
+      "name": "Equity in Mathematics Grant (PK-6)",
+      "original_category": "Education",
+      "business_category": "youth_empowerment",
+      "amount": "Up to $$8,000",
+      "grant_type": "Monetary",
+      "deadline": "11/1/2024",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 1,
+        "financial_literacy": 1,
+        "technology": 0,
+        "youth_empowerment": 3,
+        "community_development": 0,
+        "overall_score": 5
+      },
+      "relevance_score": 5,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.540903",
+      "priority": "HIGH",
+      "focus": "Youth development and educational support - Education",
+      "keywords": [
+        "youth development",
+        "education",
+        "learning"
+      ]
+    },
+    {
+      "name": "Equity in Mathematics Grants (6-12)",
+      "original_category": "Education",
+      "business_category": "youth_empowerment",
+      "amount": "Up to $$8,000",
+      "grant_type": "Monetary",
+      "deadline": "11/1/2024",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 1,
+        "financial_literacy": 1,
+        "technology": 0,
+        "youth_empowerment": 3,
+        "community_development": 0,
+        "overall_score": 5
+      },
+      "relevance_score": 5,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.540918",
+      "priority": "HIGH",
+      "focus": "Youth development and educational support - Education",
+      "keywords": [
+        "youth development",
+        "education",
+        "learning"
+      ]
+    },
+    {
+      "name": "Fitzgerald Foundation Grant",
+      "original_category": "Education",
+      "business_category": "youth_empowerment",
+      "amount": "Varies",
+      "grant_type": "Monetary",
+      "deadline": "N/A",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 0,
+        "financial_literacy": 1,
+        "technology": 0,
+        "youth_empowerment": 3,
+        "community_development": 0,
+        "overall_score": 4
+      },
+      "relevance_score": 4,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.540932",
+      "priority": "HIGH",
+      "focus": "Youth development and educational support - Education",
+      "keywords": [
+        "youth development",
+        "education",
+        "learning"
+      ]
+    },
+    {
+      "name": "Office of Elementary and Secondary Education (OESE): Office of Migrant Education (OME): High School Equivalency Program (HEP), Assistance Listing Numbers 84.141A",
+      "original_category": "Education",
+      "business_category": "youth_empowerment",
+      "amount": "$$180,000 - $$475,000",
+      "grant_type": "Monetary",
+      "deadline": "11/13/2024",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 0,
+        "financial_literacy": 1,
+        "technology": 0,
+        "youth_empowerment": 4,
+        "community_development": 0,
+        "overall_score": 5
+      },
+      "relevance_score": 5,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.540951",
+      "priority": "HIGH",
+      "focus": "Youth development and educational support - Education",
+      "keywords": [
+        "program",
+        "youth development",
+        "education",
+        "learning"
+      ]
+    },
+    {
+      "name": "Kathleen Patton Westby Foundation Grant",
+      "original_category": "Education",
+      "business_category": "youth_empowerment",
+      "amount": "Varies",
+      "grant_type": "Monetary",
+      "deadline": "N/A",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 0,
+        "financial_literacy": 1,
+        "technology": 0,
+        "youth_empowerment": 3,
+        "community_development": 0,
+        "overall_score": 4
+      },
+      "relevance_score": 4,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.540966",
+      "priority": "HIGH",
+      "focus": "Youth development and educational support - Education",
+      "keywords": [
+        "youth development",
+        "education",
+        "learning"
+      ]
+    },
+    {
+      "name": "United Way of the CSRA Grants",
+      "original_category": "Education",
+      "business_category": "youth_empowerment",
+      "amount": "Varies",
+      "grant_type": "Monetary",
+      "deadline": "11/30/2024",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 0,
+        "financial_literacy": 1,
+        "technology": 0,
+        "youth_empowerment": 3,
+        "community_development": 0,
+        "overall_score": 4
+      },
+      "relevance_score": 4,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.540978",
+      "priority": "HIGH",
+      "focus": "Youth development and educational support - Education",
+      "keywords": [
+        "youth development",
+        "education",
+        "learning"
+      ]
+    },
+    {
+      "name": "Truist Foundation Grants",
+      "original_category": "Education",
+      "business_category": "youth_empowerment",
+      "amount": "Varies",
+      "grant_type": "Monetary",
+      "deadline": "11/30/2024",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 0,
+        "financial_literacy": 1,
+        "technology": 0,
+        "youth_empowerment": 3,
+        "community_development": 0,
+        "overall_score": 4
+      },
+      "relevance_score": 4,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.540992",
+      "priority": "HIGH",
+      "focus": "Youth development and educational support - Education",
+      "keywords": [
+        "youth development",
+        "education",
+        "learning"
+      ]
+    },
+    {
+      "name": "Every Kid Outdoors Small Grants Program",
+      "original_category": "Education",
+      "business_category": "youth_empowerment",
+      "amount": "Up to $$5,000",
+      "grant_type": "Monetary",
+      "deadline": "12/1/2024",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 0,
+        "financial_literacy": 1,
+        "technology": 0,
+        "youth_empowerment": 3,
+        "community_development": 0,
+        "overall_score": 4
+      },
+      "relevance_score": 4,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.541004",
+      "priority": "HIGH",
+      "focus": "Youth development and educational support - Education",
+      "keywords": [
+        "program",
+        "youth development",
+        "education",
+        "learning"
+      ]
+    },
+    {
+      "name": "Cowles Charitable Trust Grant",
+      "original_category": "Education",
+      "business_category": "youth_empowerment",
+      "amount": "Up to $$10,000",
+      "grant_type": "Monetary",
+      "deadline": "12/1/2024",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 0,
+        "financial_literacy": 1,
+        "technology": 0,
+        "youth_empowerment": 3,
+        "community_development": 0,
+        "overall_score": 4
+      },
+      "relevance_score": 4,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.541017",
+      "priority": "HIGH",
+      "focus": "Youth development and educational support - Education",
+      "keywords": [
+        "youth development",
+        "education",
+        "learning"
+      ]
+    },
+    {
+      "name": "Advance Cross-Sector Partnerships for Adolescents",
+      "original_category": "Education",
+      "business_category": "youth_empowerment",
+      "amount": "Approximately $$200,000",
+      "grant_type": "Monetary",
+      "deadline": "12/2/2024",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 0,
+        "financial_literacy": 1,
+        "technology": 0,
+        "youth_empowerment": 3,
+        "community_development": 0,
+        "overall_score": 4
+      },
+      "relevance_score": 4,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.541030",
+      "priority": "HIGH",
+      "focus": "Youth development and educational support - Education",
+      "keywords": [
+        "youth development",
+        "education",
+        "learning"
+      ]
+    },
+    {
+      "name": "Research Grants on Education: Small",
+      "original_category": "Education",
+      "business_category": "youth_empowerment",
+      "amount": "Up to $$50,000",
+      "grant_type": "Monetary",
+      "deadline": "N/A",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 0,
+        "financial_literacy": 1,
+        "technology": 0,
+        "youth_empowerment": 3,
+        "community_development": 0,
+        "overall_score": 4
+      },
+      "relevance_score": 4,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.541042",
+      "priority": "HIGH",
+      "focus": "Youth development and educational support - Education",
+      "keywords": [
+        "youth development",
+        "education",
+        "learning"
+      ]
+    },
+    {
+      "name": "Kroger Foundation: Donation Request",
+      "original_category": "Education",
+      "business_category": "youth_empowerment",
+      "amount": "Varies",
+      "grant_type": "Monetary",
+      "deadline": "12/4/2024",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 0,
+        "financial_literacy": 1,
+        "technology": 0,
+        "youth_empowerment": 3,
+        "community_development": 0,
+        "overall_score": 4
+      },
+      "relevance_score": 4,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.541054",
+      "priority": "HIGH",
+      "focus": "Youth development and educational support - Education",
+      "keywords": [
+        "youth development",
+        "education",
+        "learning"
+      ]
+    },
+    {
+      "name": "State Media Assistance Grant",
+      "original_category": "Education",
+      "business_category": "youth_empowerment",
+      "amount": "Varies",
+      "grant_type": "Monetary",
+      "deadline": "12/10/2024",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 0,
+        "financial_literacy": 1,
+        "technology": 0,
+        "youth_empowerment": 3,
+        "community_development": 0,
+        "overall_score": 4
+      },
+      "relevance_score": 4,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.541066",
+      "priority": "HIGH",
+      "focus": "Youth development and educational support - Education",
+      "keywords": [
+        "youth development",
+        "education",
+        "learning"
+      ]
+    },
+    {
+      "name": "Imlay Foundation Grants",
+      "original_category": "Education",
+      "business_category": "youth_empowerment",
+      "amount": "$$10,000 - $$15,000",
+      "grant_type": "Monetary",
+      "deadline": "12/15/2024",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 0,
+        "financial_literacy": 1,
+        "technology": 0,
+        "youth_empowerment": 3,
+        "community_development": 0,
+        "overall_score": 4
+      },
+      "relevance_score": 4,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.541077",
+      "priority": "HIGH",
+      "focus": "Youth development and educational support - Education",
+      "keywords": [
+        "youth development",
+        "education",
+        "learning"
+      ]
+    },
+    {
+      "name": "WestPoint Fund Grant",
+      "original_category": "Education",
+      "business_category": "youth_empowerment",
+      "amount": "$$3,000 - $$5,000",
+      "grant_type": "Monetary",
+      "deadline": "12/29/2024",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 0,
+        "financial_literacy": 1,
+        "technology": 0,
+        "youth_empowerment": 3,
+        "community_development": 0,
+        "overall_score": 4
+      },
+      "relevance_score": 4,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.541091",
+      "priority": "HIGH",
+      "focus": "Youth development and educational support - Education",
+      "keywords": [
+        "youth development",
+        "education",
+        "learning"
+      ]
+    },
+    {
+      "name": "J.B. Hunt Transport Services: Company Giving",
+      "original_category": "Education",
+      "business_category": "youth_empowerment",
+      "amount": "Varies",
+      "grant_type": "Monetary",
+      "deadline": "12/29/2024",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 0,
+        "financial_literacy": 1,
+        "technology": 0,
+        "youth_empowerment": 3,
+        "community_development": 0,
+        "overall_score": 4
+      },
+      "relevance_score": 4,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.541103",
+      "priority": "HIGH",
+      "focus": "Youth development and educational support - Education",
+      "keywords": [
+        "youth development",
+        "education",
+        "learning"
+      ]
+    },
+    {
+      "name": "CFCG: Nonprofit Grant Program",
+      "original_category": "Education",
+      "business_category": "youth_empowerment",
+      "amount": "Up to $$25,000",
+      "grant_type": "Monetary",
+      "deadline": "12/31/2024",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 0,
+        "financial_literacy": 1,
+        "technology": 0,
+        "youth_empowerment": 3,
+        "community_development": 0,
+        "overall_score": 4
+      },
+      "relevance_score": 4,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.541116",
+      "priority": "HIGH",
+      "focus": "Youth development and educational support - Education",
+      "keywords": [
+        "program",
+        "youth development",
+        "education",
+        "learning"
+      ]
+    },
+    {
+      "name": "Macon Area Habitat for Humanity Sustainability Fund Grant",
+      "original_category": "Education",
+      "business_category": "youth_empowerment",
+      "amount": "Up to $$500",
+      "grant_type": "Monetary",
+      "deadline": "12/31/2024",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 0,
+        "financial_literacy": 1,
+        "technology": 1,
+        "youth_empowerment": 3,
+        "community_development": 0,
+        "overall_score": 5
+      },
+      "relevance_score": 5,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.541130",
+      "priority": "HIGH",
+      "focus": "Youth development and educational support - Education",
+      "keywords": [
+        "youth development",
+        "education",
+        "learning"
+      ]
+    },
+    {
+      "name": "GEICO Philanthropic Foundation Grant",
+      "original_category": "Education",
+      "business_category": "youth_empowerment",
+      "amount": "Varies",
+      "grant_type": "Monetary",
+      "deadline": "12/31/2024",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 0,
+        "financial_literacy": 1,
+        "technology": 0,
+        "youth_empowerment": 3,
+        "community_development": 0,
+        "overall_score": 4
+      },
+      "relevance_score": 4,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.541142",
+      "priority": "HIGH",
+      "focus": "Youth development and educational support - Education",
+      "keywords": [
+        "youth development",
+        "education",
+        "learning"
+      ]
+    },
+    {
+      "name": "Versafund Grant Program: Catalyst Grant",
+      "original_category": "Education",
+      "business_category": "youth_empowerment",
+      "amount": "$$2,500 - $$10,000",
+      "grant_type": "Monetary",
+      "deadline": "1/1/2025",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 0,
+        "financial_literacy": 1,
+        "technology": 0,
+        "youth_empowerment": 3,
+        "community_development": 0,
+        "overall_score": 4
+      },
+      "relevance_score": 4,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.541157",
+      "priority": "HIGH",
+      "focus": "Youth development and educational support - Education",
+      "keywords": [
+        "program",
+        "youth development",
+        "education",
+        "learning"
+      ]
+    },
+    {
+      "name": "Versafund Grant Program: Venture Grant",
+      "original_category": "Education",
+      "business_category": "youth_empowerment",
+      "amount": "$$10,001 - $$40,000",
+      "grant_type": "Monetary",
+      "deadline": "1/1/2025",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 0,
+        "financial_literacy": 1,
+        "technology": 0,
+        "youth_empowerment": 3,
+        "community_development": 0,
+        "overall_score": 4
+      },
+      "relevance_score": 4,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.541177",
+      "priority": "HIGH",
+      "focus": "Youth development and educational support - Education",
+      "keywords": [
+        "program",
+        "youth development",
+        "education",
+        "learning"
+      ]
+    },
+    {
+      "name": "Southface Institute",
+      "original_category": "Health and Human Services",
+      "business_category": "community_development",
+      "amount": "Up to $$75,000",
+      "grant_type": "Monetary",
+      "deadline": "11/29/2024",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 0,
+        "financial_literacy": 0,
+        "technology": 0,
+        "youth_empowerment": 0,
+        "community_development": 1,
+        "overall_score": 1
+      },
+      "relevance_score": 1,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.541190",
+      "priority": "LOW",
+      "focus": "Community development and local impact - Health and Human Services",
+      "keywords": [
+        "neighborhood",
+        "local impact",
+        "health and human services",
+        "community development"
+      ]
+    },
+    {
+      "name": "US Dept. of Health & Human Services: National Institutes of Health (NIH)",
+      "original_category": "Health and Human Services",
+      "business_category": "community_development",
+      "amount": "Up to $$100,000",
+      "grant_type": "Monetary",
+      "deadline": "10/12/2024",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 0,
+        "financial_literacy": 0,
+        "technology": 0,
+        "youth_empowerment": 0,
+        "community_development": 1,
+        "overall_score": 1
+      },
+      "relevance_score": 1,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.541205",
+      "priority": "LOW",
+      "focus": "Community development and local impact - Health and Human Services",
+      "keywords": [
+        "neighborhood",
+        "local impact",
+        "health and human services",
+        "community development"
+      ]
+    },
+    {
+      "name": "Pfizer, Inc.",
+      "original_category": "Health and Human Services",
+      "business_category": "community_development",
+      "amount": "Up to $$50,000",
+      "grant_type": "Monetary",
+      "deadline": "10/15/2024",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 0,
+        "financial_literacy": 0,
+        "technology": 0,
+        "youth_empowerment": 0,
+        "community_development": 1,
+        "overall_score": 1
+      },
+      "relevance_score": 1,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.541218",
+      "priority": "LOW",
+      "focus": "Community development and local impact - Health and Human Services",
+      "keywords": [
+        "neighborhood",
+        "local impact",
+        "health and human services",
+        "community development"
+      ]
+    },
+    {
+      "name": "Finish Line Youth Foundation Inc",
+      "original_category": "Health and Human Services",
+      "business_category": "youth_empowerment",
+      "amount": "Up to $$10,000",
+      "grant_type": "Monetary",
+      "deadline": "10/15/2024",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 0,
+        "financial_literacy": 0,
+        "technology": 0,
+        "youth_empowerment": 1,
+        "community_development": 1,
+        "overall_score": 2
+      },
+      "relevance_score": 2,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.541231",
+      "priority": "MEDIUM",
+      "focus": "Youth development and educational support - Health and Human Services",
+      "keywords": [
+        "learning",
+        "health and human services",
+        "youth development",
+        "education",
+        "youth"
+      ]
+    },
+    {
+      "name": "Walmart",
+      "original_category": "Health and Human Services",
+      "business_category": "community_development",
+      "amount": "$$250 - $$5,000",
+      "grant_type": "Monetary",
+      "deadline": "10/15/2024",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 0,
+        "financial_literacy": 0,
+        "technology": 0,
+        "youth_empowerment": 0,
+        "community_development": 1,
+        "overall_score": 1
+      },
+      "relevance_score": 1,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.541243",
+      "priority": "LOW",
+      "focus": "Community development and local impact - Health and Human Services",
+      "keywords": [
+        "neighborhood",
+        "local impact",
+        "health and human services",
+        "community development"
+      ]
+    },
+    {
+      "name": "Warren Alpert Foundation",
+      "original_category": "Health and Human Services",
+      "business_category": "community_development",
+      "amount": "More than $$25,000",
+      "grant_type": "Monetary",
+      "deadline": "10/15/2024",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 0,
+        "financial_literacy": 0,
+        "technology": 0,
+        "youth_empowerment": 0,
+        "community_development": 1,
+        "overall_score": 1
+      },
+      "relevance_score": 1,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.541258",
+      "priority": "LOW",
+      "focus": "Community development and local impact - Health and Human Services",
+      "keywords": [
+        "neighborhood",
+        "local impact",
+        "health and human services",
+        "community development"
+      ]
+    },
+    {
+      "name": "California Department of Health Care Access and Information (HCAI)",
+      "original_category": "Health and Human Services",
+      "business_category": "technology",
+      "amount": "Up to $$25,000",
+      "grant_type": "Monetary",
+      "deadline": "10/16/2024",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 0,
+        "financial_literacy": 0,
+        "technology": 1,
+        "youth_empowerment": 0,
+        "community_development": 1,
+        "overall_score": 2
+      },
+      "relevance_score": 2,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.541272",
+      "priority": "MEDIUM",
+      "focus": "Technology innovation and digital advancement - Health and Human Services",
+      "keywords": [
+        "digital",
+        "technology",
+        "health and human services",
+        "innovation"
+      ]
+    },
+    {
+      "name": "The Comis Foundation",
+      "original_category": "Health and Human Services",
+      "business_category": "community_development",
+      "amount": "$$5,000 - $$75,000",
+      "grant_type": "Monetary",
+      "deadline": "Rolling",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 0,
+        "financial_literacy": 0,
+        "technology": 0,
+        "youth_empowerment": 0,
+        "community_development": 1,
+        "overall_score": 1
+      },
+      "relevance_score": 1,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.541285",
+      "priority": "LOW",
+      "focus": "Community development and local impact - Health and Human Services",
+      "keywords": [
+        "neighborhood",
+        "local impact",
+        "health and human services",
+        "community development"
+      ]
+    },
+    {
+      "name": "Burroughs Wellcome Fund",
+      "original_category": "Health and Human Services",
+      "business_category": "community_development",
+      "amount": "$$2,500 - $$50,000",
+      "grant_type": "Monetary",
+      "deadline": "10/24/2024",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 0,
+        "financial_literacy": 0,
+        "technology": 0,
+        "youth_empowerment": 0,
+        "community_development": 1,
+        "overall_score": 1
+      },
+      "relevance_score": 1,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.541299",
+      "priority": "LOW",
+      "focus": "Community development and local impact - Health and Human Services",
+      "keywords": [
+        "neighborhood",
+        "local impact",
+        "health and human services",
+        "community development"
+      ]
+    },
+    {
+      "name": "Nordstrom",
+      "original_category": "Health and Human Services",
+      "business_category": "community_development",
+      "amount": "$$5,000 - $$20,000",
+      "grant_type": "Monetary",
+      "deadline": "10/31/2024",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 0,
+        "financial_literacy": 0,
+        "technology": 0,
+        "youth_empowerment": 0,
+        "community_development": 1,
+        "overall_score": 1
+      },
+      "relevance_score": 1,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.541310",
+      "priority": "LOW",
+      "focus": "Community development and local impact - Health and Human Services",
+      "keywords": [
+        "neighborhood",
+        "local impact",
+        "health and human services",
+        "community development"
+      ]
+    },
+    {
+      "name": "Community Foundation of Central Georgia",
+      "original_category": "Health and Human Services",
+      "business_category": "community_development",
+      "amount": "Approximately $$24,000",
+      "grant_type": "Monetary",
+      "deadline": "11/1/2024",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 0,
+        "financial_literacy": 0,
+        "technology": 0,
+        "youth_empowerment": 0,
+        "community_development": 2,
+        "overall_score": 2
+      },
+      "relevance_score": 2,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.541323",
+      "priority": "MEDIUM",
+      "focus": "Community development and local impact - Health and Human Services",
+      "keywords": [
+        "community",
+        "local impact",
+        "neighborhood",
+        "health and human services",
+        "community development"
+      ]
+    },
+    {
+      "name": "Changemaker Accreditation Grants",
+      "original_category": "Health and Human Services",
+      "business_category": "community_development",
+      "amount": "Varies",
+      "grant_type": "Monetary",
+      "deadline": "11/1/2024",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 0,
+        "financial_literacy": 0,
+        "technology": 0,
+        "youth_empowerment": 0,
+        "community_development": 1,
+        "overall_score": 1
+      },
+      "relevance_score": 1,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.541336",
+      "priority": "LOW",
+      "focus": "Community development and local impact - Health and Human Services",
+      "keywords": [
+        "neighborhood",
+        "local impact",
+        "health and human services",
+        "community development"
+      ]
+    },
+    {
+      "name": "Community Food Projects Competitive Grant Program (356358)",
+      "original_category": "Health and Human Services",
+      "business_category": "community_development",
+      "amount": "$$25,000 - $$400,000",
+      "grant_type": "Monetary",
+      "deadline": "11/7/2024",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 0,
+        "financial_literacy": 0,
+        "technology": 0,
+        "youth_empowerment": 0,
+        "community_development": 2,
+        "overall_score": 2
+      },
+      "relevance_score": 2,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.541349",
+      "priority": "MEDIUM",
+      "focus": "Community development and local impact - Health and Human Services",
+      "keywords": [
+        "community",
+        "local impact",
+        "neighborhood",
+        "health and human services",
+        "program",
+        "community development"
+      ]
+    },
+    {
+      "name": "Barclay-Giel Seed Grants",
+      "original_category": "Health and Human Services",
+      "business_category": "community_development",
+      "amount": "Up to $$10,000",
+      "grant_type": "Monetary",
+      "deadline": "11/12/2024",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 0,
+        "financial_literacy": 0,
+        "technology": 0,
+        "youth_empowerment": 0,
+        "community_development": 1,
+        "overall_score": 1
+      },
+      "relevance_score": 1,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.541377",
+      "priority": "LOW",
+      "focus": "Community development and local impact - Health and Human Services",
+      "keywords": [
+        "neighborhood",
+        "local impact",
+        "health and human services",
+        "community development"
+      ]
+    },
+    {
+      "name": "Stimulants and HIV: Addressing Contemporary and Recurring Epidemics (R61/R33 - Clinical Trial Required)",
+      "original_category": "Health and Human Services",
+      "business_category": "community_development",
+      "amount": "Up to $$400,000",
+      "grant_type": "Monetary",
+      "deadline": "11/12/2024",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 0,
+        "financial_literacy": 0,
+        "technology": 0,
+        "youth_empowerment": 0,
+        "community_development": 1,
+        "overall_score": 1
+      },
+      "relevance_score": 1,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.541392",
+      "priority": "LOW",
+      "focus": "Community development and local impact - Health and Human Services",
+      "keywords": [
+        "neighborhood",
+        "local impact",
+        "health and human services",
+        "community development"
+      ]
+    },
+    {
+      "name": "SeedMoney Challenge",
+      "original_category": "Health and Human Services",
+      "business_category": "community_development",
+      "amount": "$$100 - $$1,000",
+      "grant_type": "Monetary",
+      "deadline": "11/13/2024",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 0,
+        "financial_literacy": 0,
+        "technology": 0,
+        "youth_empowerment": 0,
+        "community_development": 1,
+        "overall_score": 1
+      },
+      "relevance_score": 1,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.541407",
+      "priority": "LOW",
+      "focus": "Community development and local impact - Health and Human Services",
+      "keywords": [
+        "neighborhood",
+        "local impact",
+        "health and human services",
+        "community development"
+      ]
+    },
+    {
+      "name": "NIDA Mentored Clinical Scientist Development Program Award in Substance Use and Substance Use Disorder Research (K12 Clinical Trial Optional) (351679)",
+      "original_category": "Health and Human Services",
+      "business_category": "community_development",
+      "amount": "Up to $$750,000",
+      "grant_type": "Monetary",
+      "deadline": "11/13/2024",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 0,
+        "financial_literacy": 1,
+        "technology": 0,
+        "youth_empowerment": 0,
+        "community_development": 2,
+        "overall_score": 3
+      },
+      "relevance_score": 3,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.541422",
+      "priority": "MEDIUM",
+      "focus": "Community development and local impact - Health and Human Services",
+      "keywords": [
+        "local impact",
+        "neighborhood",
+        "development",
+        "health and human services",
+        "program",
+        "community development"
+      ]
+    },
+    {
+      "name": "NLM Information Resource Grants to Reduce Health Disparities and Promote Health Equity (G08 Clinical Trial Not Allowed)",
+      "original_category": "Health and Human Services",
+      "business_category": "minority_business",
+      "amount": "Up to $$600,000",
+      "grant_type": "Monetary",
+      "deadline": "11/13/2024",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 1,
+        "financial_literacy": 0,
+        "technology": 0,
+        "youth_empowerment": 0,
+        "community_development": 1,
+        "overall_score": 2
+      },
+      "relevance_score": 2,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.541441",
+      "priority": "MEDIUM",
+      "focus": "Business development and community support - Health and Human Services",
+      "keywords": [
+        "economic development",
+        "business development",
+        "health and human services",
+        "entrepreneurship"
+      ]
+    },
+    {
+      "name": "Georgia Civil Money Penalty Reinvestment Funds Grant",
+      "original_category": "Health and Human Services",
+      "business_category": "community_development",
+      "amount": "Varies",
+      "grant_type": "Monetary",
+      "deadline": "11/15/2024",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 0,
+        "financial_literacy": 0,
+        "technology": 0,
+        "youth_empowerment": 0,
+        "community_development": 1,
+        "overall_score": 1
+      },
+      "relevance_score": 1,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.541455",
+      "priority": "LOW",
+      "focus": "Community development and local impact - Health and Human Services",
+      "keywords": [
+        "neighborhood",
+        "local impact",
+        "health and human services",
+        "community development"
+      ]
+    },
+    {
+      "name": "National Coordinating Center (NCC) for AHRQs Healthcare Extension Service - State-based Solutions to Healthcare Improvement (U54)",
+      "original_category": "Health and Human Services",
+      "business_category": "community_development",
+      "amount": "Up to $$14,250,000",
+      "grant_type": "Monetary",
+      "deadline": "11/25/2024",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 0,
+        "financial_literacy": 0,
+        "technology": 0,
+        "youth_empowerment": 0,
+        "community_development": 1,
+        "overall_score": 1
+      },
+      "relevance_score": 1,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.541471",
+      "priority": "LOW",
+      "focus": "Community development and local impact - Health and Human Services",
+      "keywords": [
+        "neighborhood",
+        "local impact",
+        "health and human services",
+        "community development"
+      ]
+    },
+    {
+      "name": "Early-stage Biomedical Data Repositories and Knowledgebases (R24 Clinical Trial Not Allowed)",
+      "original_category": "Health and Human Services",
+      "business_category": "technology",
+      "amount": "Up to $$1,400,000",
+      "grant_type": "Monetary",
+      "deadline": "11/26/2024",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 0,
+        "financial_literacy": 0,
+        "technology": 1,
+        "youth_empowerment": 0,
+        "community_development": 1,
+        "overall_score": 2
+      },
+      "relevance_score": 2,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.541486",
+      "priority": "MEDIUM",
+      "focus": "Technology innovation and digital advancement - Health and Human Services",
+      "keywords": [
+        "digital",
+        "technology",
+        "health and human services",
+        "innovation"
+      ]
+    },
+    {
+      "name": "Enhancement and Management of Established Biomedical Data Repositories and Knowledgebases (U24 Clinical Trial Not Allowed)",
+      "original_category": "Health and Human Services",
+      "business_category": "technology",
+      "amount": "Varies",
+      "grant_type": "Monetary",
+      "deadline": "11/26/2024",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 0,
+        "financial_literacy": 0,
+        "technology": 1,
+        "youth_empowerment": 0,
+        "community_development": 1,
+        "overall_score": 2
+      },
+      "relevance_score": 2,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.541501",
+      "priority": "MEDIUM",
+      "focus": "Technology innovation and digital advancement - Health and Human Services",
+      "keywords": [
+        "digital",
+        "technology",
+        "health and human services",
+        "innovation"
+      ]
+    },
+    {
+      "name": "Centene Charitable Foundation Grants",
+      "original_category": "Health and Human Services",
+      "business_category": "community_development",
+      "amount": "$$300 - $$500,000",
+      "grant_type": "Monetary",
+      "deadline": "11/29/2024",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 0,
+        "financial_literacy": 0,
+        "technology": 0,
+        "youth_empowerment": 0,
+        "community_development": 1,
+        "overall_score": 1
+      },
+      "relevance_score": 1,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.541514",
+      "priority": "LOW",
+      "focus": "Community development and local impact - Health and Human Services",
+      "keywords": [
+        "neighborhood",
+        "local impact",
+        "health and human services",
+        "community development"
+      ]
+    },
+    {
+      "name": "Community Advocacy & Partnership Engagement (CAPE) Grant",
+      "original_category": "Health and Human Services",
+      "business_category": "community_development",
+      "amount": "Varies",
+      "grant_type": "Monetary",
+      "deadline": "12/1/2024",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 0,
+        "financial_literacy": 0,
+        "technology": 0,
+        "youth_empowerment": 0,
+        "community_development": 2,
+        "overall_score": 2
+      },
+      "relevance_score": 2,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.541527",
+      "priority": "MEDIUM",
+      "focus": "Community development and local impact - Health and Human Services",
+      "keywords": [
+        "community",
+        "local impact",
+        "neighborhood",
+        "health and human services",
+        "community development"
+      ]
+    },
+    {
+      "name": "CTF: Rooted in Justice Grants",
+      "original_category": "Health and Human Services",
+      "business_category": "community_development",
+      "amount": "$$40,000 - $$50,000",
+      "grant_type": "Monetary",
+      "deadline": "12/2/2024",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 0,
+        "financial_literacy": 0,
+        "technology": 0,
+        "youth_empowerment": 0,
+        "community_development": 1,
+        "overall_score": 1
+      },
+      "relevance_score": 1,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.541543",
+      "priority": "LOW",
+      "focus": "Community development and local impact - Health and Human Services",
+      "keywords": [
+        "neighborhood",
+        "local impact",
+        "health and human services",
+        "community development"
+      ]
+    },
+    {
+      "name": "NWRA: Rachel Fischoff Educational Scholarship",
+      "original_category": "Environmental and Animal Welfare",
+      "business_category": "youth_empowerment",
+      "amount": "$$650",
+      "grant_type": "Monetary",
+      "deadline": "11/1/2024",
+      "website": "",
+      "business_relevance": {
+        "minority_business": 0,
+        "financial_literacy": 0,
+        "technology": 0,
+        "youth_empowerment": 1,
+        "community_development": 0,
+        "overall_score": 1
+      },
+      "relevance_score": 1,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.541621",
+      "priority": "LOW",
+      "focus": "Youth development and educational support - Environmental and Animal Welfare",
+      "keywords": [
+        "youth development",
+        "education",
+        "environmental and animal welfare",
+        "learning"
+      ]
+    },
+    {
+      "name": "NWRA: Wildlife Housing Scholarship",
+      "original_category": "Environmental and Animal Welfare",
+      "business_category": "community_development",
+      "amount": "Up to $$3,000",
+      "grant_type": "Monetary",
+      "deadline": "11/1/2024",
+      "website": "",
+      "business_relevance": {
+        "minority_business": 0,
+        "financial_literacy": 0,
+        "technology": 0,
+        "youth_empowerment": 0,
+        "community_development": 1,
+        "overall_score": 1
+      },
+      "relevance_score": 1,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.541635",
+      "priority": "LOW",
+      "focus": "Community development and local impact - Environmental and Animal Welfare",
+      "keywords": [
+        "neighborhood",
+        "local impact",
+        "environmental and animal welfare",
+        "community development"
+      ]
+    },
+    {
+      "name": "Georgia Department of Community Affairs",
+      "original_category": "Community Development",
+      "business_category": "community_development",
+      "amount": "$$250,000 - $$2,500,000",
+      "grant_type": "Monetary",
+      "deadline": "10/11/2024",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 1,
+        "financial_literacy": 2,
+        "technology": 1,
+        "youth_empowerment": 0,
+        "community_development": 5,
+        "overall_score": 9
+      },
+      "relevance_score": 9,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.541696",
+      "priority": "HIGH",
+      "focus": "Community development and local impact - Community Development",
+      "keywords": [
+        "neighborhood",
+        "local impact",
+        "community",
+        "community development"
+      ]
+    },
+    {
+      "name": "National Association Of Realtors",
+      "original_category": "Community Development",
+      "business_category": "community_development",
+      "amount": "Up to $$15,000",
+      "grant_type": "Monetary",
+      "deadline": "10/15/2024",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 1,
+        "financial_literacy": 2,
+        "technology": 0,
+        "youth_empowerment": 0,
+        "community_development": 5,
+        "overall_score": 8
+      },
+      "relevance_score": 8,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.541711",
+      "priority": "HIGH",
+      "focus": "Community development and local impact - Community Development",
+      "keywords": [
+        "neighborhood",
+        "local impact",
+        "community development"
+      ]
+    },
+    {
+      "name": "Community Foundation of the Chattahoochee Valley",
+      "original_category": "Community Development",
+      "business_category": "community_development",
+      "amount": "$$10,000 - $$25,000",
+      "grant_type": "Monetary",
+      "deadline": "",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 1,
+        "financial_literacy": 2,
+        "technology": 0,
+        "youth_empowerment": 0,
+        "community_development": 5,
+        "overall_score": 8
+      },
+      "relevance_score": 8,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.541725",
+      "priority": "HIGH",
+      "focus": "Community development and local impact - Community Development",
+      "keywords": [
+        "neighborhood",
+        "local impact",
+        "community",
+        "community development"
+      ]
+    },
+    {
+      "name": "Lawrence Foundation",
+      "original_category": "Community Development",
+      "business_category": "community_development",
+      "amount": "More than $$5,000",
+      "grant_type": "Monetary",
+      "deadline": "",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 1,
+        "financial_literacy": 2,
+        "technology": 0,
+        "youth_empowerment": 0,
+        "community_development": 5,
+        "overall_score": 8
+      },
+      "relevance_score": 8,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.541740",
+      "priority": "HIGH",
+      "focus": "Community development and local impact - Community Development",
+      "keywords": [
+        "neighborhood",
+        "local impact",
+        "community development"
+      ]
+    },
+    {
+      "name": "The Union Home Foundation Inc",
+      "original_category": "Community Development",
+      "business_category": "community_development",
+      "amount": "$$1,000 - $$10,000",
+      "grant_type": "Monetary",
+      "deadline": "11/15/2024",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 1,
+        "financial_literacy": 2,
+        "technology": 0,
+        "youth_empowerment": 0,
+        "community_development": 5,
+        "overall_score": 8
+      },
+      "relevance_score": 8,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.541753",
+      "priority": "HIGH",
+      "focus": "Community development and local impact - Community Development",
+      "keywords": [
+        "neighborhood",
+        "local impact",
+        "community development"
+      ]
+    },
+    {
+      "name": "Avion Solutions Inc",
+      "original_category": "Community Development",
+      "business_category": "community_development",
+      "amount": "$$5,000",
+      "grant_type": "Monetary",
+      "deadline": "11/30/2024",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 1,
+        "financial_literacy": 2,
+        "technology": 0,
+        "youth_empowerment": 0,
+        "community_development": 5,
+        "overall_score": 8
+      },
+      "relevance_score": 8,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.541770",
+      "priority": "HIGH",
+      "focus": "Community development and local impact - Community Development",
+      "keywords": [
+        "neighborhood",
+        "local impact",
+        "community development"
+      ]
+    },
+    {
+      "name": "Sony CREATE ACTION Grants",
+      "original_category": "Youth and Family Services",
+      "business_category": "youth_empowerment",
+      "amount": "Up to $$50,000",
+      "grant_type": "Monetary",
+      "deadline": "10/1/2024",
+      "website": "",
+      "business_relevance": {
+        "minority_business": 0,
+        "financial_literacy": 0,
+        "technology": 0,
+        "youth_empowerment": 4,
+        "community_development": 0,
+        "overall_score": 4
+      },
+      "relevance_score": 4,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.541783",
+      "priority": "HIGH",
+      "focus": "Youth development and educational support - Youth and Family Services",
+      "keywords": [
+        "youth and family services",
+        "youth development",
+        "education",
+        "learning"
+      ]
+    },
+    {
+      "name": "National Days of Service Lead Agency Grants",
+      "original_category": "Youth and Family Services",
+      "business_category": "youth_empowerment",
+      "amount": "$$2,500 - $$5,000",
+      "grant_type": "Monetary",
+      "deadline": "10/27/2024",
+      "website": "",
+      "business_relevance": {
+        "minority_business": 0,
+        "financial_literacy": 0,
+        "technology": 0,
+        "youth_empowerment": 4,
+        "community_development": 0,
+        "overall_score": 4
+      },
+      "relevance_score": 4,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.541797",
+      "priority": "HIGH",
+      "focus": "Youth development and educational support - Youth and Family Services",
+      "keywords": [
+        "youth and family services",
+        "youth development",
+        "education",
+        "learning"
+      ]
+    },
+    {
+      "name": "Cobb County Community Services Block Grant (CSBG)",
+      "original_category": "Public Safety and Disaster Relief",
+      "business_category": "community_development",
+      "amount": "Varies",
+      "grant_type": "Monetary",
+      "deadline": "11/1/2024",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 0,
+        "financial_literacy": 0,
+        "technology": 0,
+        "youth_empowerment": 0,
+        "community_development": 1,
+        "overall_score": 1
+      },
+      "relevance_score": 1,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.541812",
+      "priority": "LOW",
+      "focus": "Community development and local impact - Public Safety and Disaster Relief",
+      "keywords": [
+        "community",
+        "local impact",
+        "neighborhood",
+        "public safety and disaster relief",
+        "community development"
+      ]
+    },
+    {
+      "name": "Foundation for Global Sports Development: Athletes in Excellence Award",
+      "original_category": "Public Safety and Disaster Relief",
+      "business_category": "financial_literacy",
+      "amount": "$$10,000",
+      "grant_type": "Monetary",
+      "deadline": "11/1/2024",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 0,
+        "financial_literacy": 1,
+        "technology": 0,
+        "youth_empowerment": 0,
+        "community_development": 1,
+        "overall_score": 2
+      },
+      "relevance_score": 2,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.541848",
+      "priority": "MEDIUM",
+      "focus": "Economic empowerment and financial education - Public Safety and Disaster Relief",
+      "keywords": [
+        "financial education",
+        "public safety and disaster relief",
+        "economic empowerment",
+        "development",
+        "financial literacy"
+      ]
+    },
+    {
+      "name": "Providing Research Education Experiences to Enhance Inclusivity for a Diverse Substance Use and Addiction Scientific Workforce (R25 Clinical Trials Not Allowed)",
+      "original_category": "Public Safety and Disaster Relief",
+      "business_category": "minority_business",
+      "amount": "Up to $$1,250,000",
+      "grant_type": "Monetary",
+      "deadline": "11/13/2024",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 1,
+        "financial_literacy": 0,
+        "technology": 0,
+        "youth_empowerment": 1,
+        "community_development": 0,
+        "overall_score": 2
+      },
+      "relevance_score": 2,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.541893",
+      "priority": "MEDIUM",
+      "focus": "Business development and community support - Public Safety and Disaster Relief",
+      "keywords": [
+        "entrepreneurship",
+        "public safety and disaster relief",
+        "economic development",
+        "business development",
+        "education"
+      ]
+    },
+    {
+      "name": "Delta Analytics: Data Service Grant",
+      "original_category": "Public Safety and Disaster Relief",
+      "business_category": "technology",
+      "amount": "Unspecified amount  in in-kind support",
+      "grant_type": "In Kind",
+      "deadline": "11/15/2024",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 0,
+        "financial_literacy": 0,
+        "technology": 1,
+        "youth_empowerment": 0,
+        "community_development": 0,
+        "overall_score": 1
+      },
+      "relevance_score": 1,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.541917",
+      "priority": "LOW",
+      "focus": "Technology innovation and digital advancement - Public Safety and Disaster Relief",
+      "keywords": [
+        "public safety and disaster relief",
+        "digital",
+        "technology",
+        "innovation"
+      ]
+    },
+    {
+      "name": "NIA Research and Entrepreneurial Development Immersion (REDI): Mentored Entrepreneurial Career Development Award",
+      "original_category": "Public Safety and Disaster Relief",
+      "business_category": "financial_literacy",
+      "amount": "Up to $$140,000",
+      "grant_type": "Monetary",
+      "deadline": "11/15/2024",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 0,
+        "financial_literacy": 1,
+        "technology": 0,
+        "youth_empowerment": 0,
+        "community_development": 1,
+        "overall_score": 2
+      },
+      "relevance_score": 2,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.541933",
+      "priority": "MEDIUM",
+      "focus": "Economic empowerment and financial education - Public Safety and Disaster Relief",
+      "keywords": [
+        "financial education",
+        "public safety and disaster relief",
+        "economic empowerment",
+        "development",
+        "financial literacy"
+      ]
+    },
+    {
+      "name": "Sparkplug Foundation Grant",
+      "original_category": "International and Foreign Affairs",
+      "business_category": "technology",
+      "amount": "$$1,000 - $$20,000",
+      "grant_type": "Monetary",
+      "deadline": "11/1/2024",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 0,
+        "financial_literacy": 0,
+        "technology": 1,
+        "youth_empowerment": 0,
+        "community_development": 0,
+        "overall_score": 1
+      },
+      "relevance_score": 1,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.541975",
+      "priority": "LOW",
+      "focus": "Technology innovation and digital advancement - International and Foreign Affairs",
+      "keywords": [
+        "international and foreign affairs",
+        "digital",
+        "technology",
+        "innovation"
+      ]
+    },
+    {
+      "name": "Catalyze Fund's Rapid Response Grants",
+      "original_category": "International and Foreign Affairs",
+      "business_category": "technology",
+      "amount": "$$10,000 - $$20,000",
+      "grant_type": "Monetary",
+      "deadline": "11/2/2024",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 0,
+        "financial_literacy": 0,
+        "technology": 1,
+        "youth_empowerment": 0,
+        "community_development": 0,
+        "overall_score": 1
+      },
+      "relevance_score": 1,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.541989",
+      "priority": "LOW",
+      "focus": "Technology innovation and digital advancement - International and Foreign Affairs",
+      "keywords": [
+        "international and foreign affairs",
+        "digital",
+        "technology",
+        "innovation"
+      ]
+    },
+    {
+      "name": "Rotary Club of Appleton World Service Grant",
+      "original_category": "International and Foreign Affairs",
+      "business_category": "technology",
+      "amount": "$$1,000 - $$3,000",
+      "grant_type": "Monetary",
+      "deadline": "11/7/2024",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 0,
+        "financial_literacy": 0,
+        "technology": 1,
+        "youth_empowerment": 0,
+        "community_development": 0,
+        "overall_score": 1
+      },
+      "relevance_score": 1,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.542002",
+      "priority": "LOW",
+      "focus": "Technology innovation and digital advancement - International and Foreign Affairs",
+      "keywords": [
+        "international and foreign affairs",
+        "digital",
+        "technology",
+        "innovation"
+      ]
+    },
+    {
+      "name": "Until She's Free Fund",
+      "original_category": "International and Foreign Affairs",
+      "business_category": "technology",
+      "amount": "Varies",
+      "grant_type": "Monetary",
+      "deadline": "11/9/2024",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 0,
+        "financial_literacy": 0,
+        "technology": 1,
+        "youth_empowerment": 0,
+        "community_development": 0,
+        "overall_score": 1
+      },
+      "relevance_score": 1,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.542015",
+      "priority": "LOW",
+      "focus": "Technology innovation and digital advancement - International and Foreign Affairs",
+      "keywords": [
+        "international and foreign affairs",
+        "digital",
+        "technology",
+        "innovation"
+      ]
+    },
+    {
+      "name": "Mitigating Proliferation Risks Posed by Artificial Intelligence Enabled Molecular Models and Leveraging Nonproliferation Opportunities",
+      "original_category": "International and Foreign Affairs",
+      "business_category": "technology",
+      "amount": "Up to $$4,000,000",
+      "grant_type": "Monetary",
+      "deadline": "11/13/2024",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 0,
+        "financial_literacy": 0,
+        "technology": 2,
+        "youth_empowerment": 0,
+        "community_development": 0,
+        "overall_score": 2
+      },
+      "relevance_score": 2,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.542031",
+      "priority": "MEDIUM",
+      "focus": "Technology innovation and digital advancement - International and Foreign Affairs",
+      "keywords": [
+        "international and foreign affairs",
+        "digital",
+        "technology",
+        "innovation"
+      ]
+    },
+    {
+      "name": "Office of Elementary and Secondary Education (OESE): Office of Migrant Education (OME): College Assistance Migrant Program (CAMP), Assistance Listing Numbers 84.149A",
+      "original_category": "International and Foreign Affairs",
+      "business_category": "technology",
+      "amount": "$$180,000 - $$475,000",
+      "grant_type": "Monetary",
+      "deadline": "11/13/2024",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 0,
+        "financial_literacy": 0,
+        "technology": 1,
+        "youth_empowerment": 1,
+        "community_development": 0,
+        "overall_score": 2
+      },
+      "relevance_score": 2,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.542050",
+      "priority": "MEDIUM",
+      "focus": "Technology innovation and digital advancement - International and Foreign Affairs",
+      "keywords": [
+        "technology",
+        "education",
+        "innovation",
+        "international and foreign affairs",
+        "program",
+        "digital"
+      ]
+    },
+    {
+      "name": "BWP: Community Partnerships",
+      "original_category": "International and Foreign Affairs",
+      "business_category": "technology",
+      "amount": "Varies",
+      "grant_type": "Monetary",
+      "deadline": "11/16/2024",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 0,
+        "financial_literacy": 0,
+        "technology": 1,
+        "youth_empowerment": 0,
+        "community_development": 1,
+        "overall_score": 2
+      },
+      "relevance_score": 2,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.542064",
+      "priority": "MEDIUM",
+      "focus": "Technology innovation and digital advancement - International and Foreign Affairs",
+      "keywords": [
+        "technology",
+        "community",
+        "innovation",
+        "international and foreign affairs",
+        "digital"
+      ]
+    },
+    {
+      "name": "Collaborative Research (351497)",
+      "original_category": "International and Foreign Affairs",
+      "business_category": "technology",
+      "amount": "Up to $$300,000",
+      "grant_type": "Monetary",
+      "deadline": "11/21/2024",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 0,
+        "financial_literacy": 0,
+        "technology": 1,
+        "youth_empowerment": 0,
+        "community_development": 0,
+        "overall_score": 1
+      },
+      "relevance_score": 1,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.542077",
+      "priority": "LOW",
+      "focus": "Technology innovation and digital advancement - International and Foreign Affairs",
+      "keywords": [
+        "international and foreign affairs",
+        "digital",
+        "technology",
+        "innovation"
+      ]
+    },
+    {
+      "name": "Transformative Organizing Grants",
+      "original_category": "International and Foreign Affairs",
+      "business_category": "technology",
+      "amount": "$$15,000 - $$25,000",
+      "grant_type": "Monetary",
+      "deadline": "11/28/2024",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 0,
+        "financial_literacy": 0,
+        "technology": 1,
+        "youth_empowerment": 0,
+        "community_development": 0,
+        "overall_score": 1
+      },
+      "relevance_score": 1,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.542090",
+      "priority": "LOW",
+      "focus": "Technology innovation and digital advancement - International and Foreign Affairs",
+      "keywords": [
+        "international and foreign affairs",
+        "digital",
+        "technology",
+        "innovation"
+      ]
+    },
+    {
+      "name": "Ockenden International Prizes",
+      "original_category": "International and Foreign Affairs",
+      "business_category": "technology",
+      "amount": "£25,000",
+      "grant_type": "Monetary",
+      "deadline": "11/30/2024",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 0,
+        "financial_literacy": 0,
+        "technology": 1,
+        "youth_empowerment": 0,
+        "community_development": 0,
+        "overall_score": 1
+      },
+      "relevance_score": 1,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.542107",
+      "priority": "LOW",
+      "focus": "Technology innovation and digital advancement - International and Foreign Affairs",
+      "keywords": [
+        "international and foreign affairs",
+        "digital",
+        "technology",
+        "innovation"
+      ]
+    },
+    {
+      "name": "United Nations Democracy Fund Grant",
+      "original_category": "International and Foreign Affairs",
+      "business_category": "technology",
+      "amount": "$$100,000 - $$200,000",
+      "grant_type": "Monetary",
+      "deadline": "11/30/2024",
+      "website": "Website",
+      "business_relevance": {
+        "minority_business": 0,
+        "financial_literacy": 0,
+        "technology": 1,
+        "youth_empowerment": 0,
+        "community_development": 0,
+        "overall_score": 1
+      },
+      "relevance_score": 1,
+      "source": "october_grants_csv",
+      "added_date": "2025-10-03T07:06:43.542120",
+      "priority": "LOW",
+      "focus": "Technology innovation and digital advancement - International and Foreign Affairs",
+      "keywords": [
+        "international and foreign affairs",
+        "digital",
+        "technology",
+        "innovation"
+      ]
+    }
+  ],
+  "grants_by_category": {
+    "minority_business": [
+      {
+        "name": "NLM Information Resource Grants to Reduce Health Disparities and Promote Health Equity (G08 Clinical Trial Not Allowed)",
+        "original_category": "Health and Human Services",
+        "business_category": "minority_business",
+        "amount": "Up to $$600,000",
+        "grant_type": "Monetary",
+        "deadline": "11/13/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 1,
+          "financial_literacy": 0,
+          "technology": 0,
+          "youth_empowerment": 0,
+          "community_development": 1,
+          "overall_score": 2
+        },
+        "relevance_score": 2,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.541441",
+        "priority": "MEDIUM",
+        "focus": "Business development and community support - Health and Human Services",
+        "keywords": [
+          "economic development",
+          "business development",
+          "health and human services",
+          "entrepreneurship"
+        ]
+      },
+      {
+        "name": "Providing Research Education Experiences to Enhance Inclusivity for a Diverse Substance Use and Addiction Scientific Workforce (R25 Clinical Trials Not Allowed)",
+        "original_category": "Public Safety and Disaster Relief",
+        "business_category": "minority_business",
+        "amount": "Up to $$1,250,000",
+        "grant_type": "Monetary",
+        "deadline": "11/13/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 1,
+          "financial_literacy": 0,
+          "technology": 0,
+          "youth_empowerment": 1,
+          "community_development": 0,
+          "overall_score": 2
+        },
+        "relevance_score": 2,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.541893",
+        "priority": "MEDIUM",
+        "focus": "Business development and community support - Public Safety and Disaster Relief",
+        "keywords": [
+          "entrepreneurship",
+          "public safety and disaster relief",
+          "economic development",
+          "business development",
+          "education"
+        ]
+      }
+    ],
+    "financial_literacy": [
+      {
+        "name": "Foundation for Global Sports Development: Athletes in Excellence Award",
+        "original_category": "Public Safety and Disaster Relief",
+        "business_category": "financial_literacy",
+        "amount": "$$10,000",
+        "grant_type": "Monetary",
+        "deadline": "11/1/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 0,
+          "financial_literacy": 1,
+          "technology": 0,
+          "youth_empowerment": 0,
+          "community_development": 1,
+          "overall_score": 2
+        },
+        "relevance_score": 2,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.541848",
+        "priority": "MEDIUM",
+        "focus": "Economic empowerment and financial education - Public Safety and Disaster Relief",
+        "keywords": [
+          "financial education",
+          "public safety and disaster relief",
+          "economic empowerment",
+          "development",
+          "financial literacy"
+        ]
+      },
+      {
+        "name": "NIA Research and Entrepreneurial Development Immersion (REDI): Mentored Entrepreneurial Career Development Award",
+        "original_category": "Public Safety and Disaster Relief",
+        "business_category": "financial_literacy",
+        "amount": "Up to $$140,000",
+        "grant_type": "Monetary",
+        "deadline": "11/15/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 0,
+          "financial_literacy": 1,
+          "technology": 0,
+          "youth_empowerment": 0,
+          "community_development": 1,
+          "overall_score": 2
+        },
+        "relevance_score": 2,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.541933",
+        "priority": "MEDIUM",
+        "focus": "Economic empowerment and financial education - Public Safety and Disaster Relief",
+        "keywords": [
+          "financial education",
+          "public safety and disaster relief",
+          "economic empowerment",
+          "development",
+          "financial literacy"
+        ]
+      }
+    ],
+    "technology": [
+      {
+        "name": "California Department of Health Care Access and Information (HCAI)",
+        "original_category": "Health and Human Services",
+        "business_category": "technology",
+        "amount": "Up to $$25,000",
+        "grant_type": "Monetary",
+        "deadline": "10/16/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 0,
+          "financial_literacy": 0,
+          "technology": 1,
+          "youth_empowerment": 0,
+          "community_development": 1,
+          "overall_score": 2
+        },
+        "relevance_score": 2,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.541272",
+        "priority": "MEDIUM",
+        "focus": "Technology innovation and digital advancement - Health and Human Services",
+        "keywords": [
+          "digital",
+          "technology",
+          "health and human services",
+          "innovation"
+        ]
+      },
+      {
+        "name": "Early-stage Biomedical Data Repositories and Knowledgebases (R24 Clinical Trial Not Allowed)",
+        "original_category": "Health and Human Services",
+        "business_category": "technology",
+        "amount": "Up to $$1,400,000",
+        "grant_type": "Monetary",
+        "deadline": "11/26/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 0,
+          "financial_literacy": 0,
+          "technology": 1,
+          "youth_empowerment": 0,
+          "community_development": 1,
+          "overall_score": 2
+        },
+        "relevance_score": 2,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.541486",
+        "priority": "MEDIUM",
+        "focus": "Technology innovation and digital advancement - Health and Human Services",
+        "keywords": [
+          "digital",
+          "technology",
+          "health and human services",
+          "innovation"
+        ]
+      },
+      {
+        "name": "Enhancement and Management of Established Biomedical Data Repositories and Knowledgebases (U24 Clinical Trial Not Allowed)",
+        "original_category": "Health and Human Services",
+        "business_category": "technology",
+        "amount": "Varies",
+        "grant_type": "Monetary",
+        "deadline": "11/26/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 0,
+          "financial_literacy": 0,
+          "technology": 1,
+          "youth_empowerment": 0,
+          "community_development": 1,
+          "overall_score": 2
+        },
+        "relevance_score": 2,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.541501",
+        "priority": "MEDIUM",
+        "focus": "Technology innovation and digital advancement - Health and Human Services",
+        "keywords": [
+          "digital",
+          "technology",
+          "health and human services",
+          "innovation"
+        ]
+      },
+      {
+        "name": "Delta Analytics: Data Service Grant",
+        "original_category": "Public Safety and Disaster Relief",
+        "business_category": "technology",
+        "amount": "Unspecified amount  in in-kind support",
+        "grant_type": "In Kind",
+        "deadline": "11/15/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 0,
+          "financial_literacy": 0,
+          "technology": 1,
+          "youth_empowerment": 0,
+          "community_development": 0,
+          "overall_score": 1
+        },
+        "relevance_score": 1,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.541917",
+        "priority": "LOW",
+        "focus": "Technology innovation and digital advancement - Public Safety and Disaster Relief",
+        "keywords": [
+          "public safety and disaster relief",
+          "digital",
+          "technology",
+          "innovation"
+        ]
+      },
+      {
+        "name": "Sparkplug Foundation Grant",
+        "original_category": "International and Foreign Affairs",
+        "business_category": "technology",
+        "amount": "$$1,000 - $$20,000",
+        "grant_type": "Monetary",
+        "deadline": "11/1/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 0,
+          "financial_literacy": 0,
+          "technology": 1,
+          "youth_empowerment": 0,
+          "community_development": 0,
+          "overall_score": 1
+        },
+        "relevance_score": 1,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.541975",
+        "priority": "LOW",
+        "focus": "Technology innovation and digital advancement - International and Foreign Affairs",
+        "keywords": [
+          "international and foreign affairs",
+          "digital",
+          "technology",
+          "innovation"
+        ]
+      },
+      {
+        "name": "Catalyze Fund's Rapid Response Grants",
+        "original_category": "International and Foreign Affairs",
+        "business_category": "technology",
+        "amount": "$$10,000 - $$20,000",
+        "grant_type": "Monetary",
+        "deadline": "11/2/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 0,
+          "financial_literacy": 0,
+          "technology": 1,
+          "youth_empowerment": 0,
+          "community_development": 0,
+          "overall_score": 1
+        },
+        "relevance_score": 1,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.541989",
+        "priority": "LOW",
+        "focus": "Technology innovation and digital advancement - International and Foreign Affairs",
+        "keywords": [
+          "international and foreign affairs",
+          "digital",
+          "technology",
+          "innovation"
+        ]
+      },
+      {
+        "name": "Rotary Club of Appleton World Service Grant",
+        "original_category": "International and Foreign Affairs",
+        "business_category": "technology",
+        "amount": "$$1,000 - $$3,000",
+        "grant_type": "Monetary",
+        "deadline": "11/7/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 0,
+          "financial_literacy": 0,
+          "technology": 1,
+          "youth_empowerment": 0,
+          "community_development": 0,
+          "overall_score": 1
+        },
+        "relevance_score": 1,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.542002",
+        "priority": "LOW",
+        "focus": "Technology innovation and digital advancement - International and Foreign Affairs",
+        "keywords": [
+          "international and foreign affairs",
+          "digital",
+          "technology",
+          "innovation"
+        ]
+      },
+      {
+        "name": "Until She's Free Fund",
+        "original_category": "International and Foreign Affairs",
+        "business_category": "technology",
+        "amount": "Varies",
+        "grant_type": "Monetary",
+        "deadline": "11/9/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 0,
+          "financial_literacy": 0,
+          "technology": 1,
+          "youth_empowerment": 0,
+          "community_development": 0,
+          "overall_score": 1
+        },
+        "relevance_score": 1,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.542015",
+        "priority": "LOW",
+        "focus": "Technology innovation and digital advancement - International and Foreign Affairs",
+        "keywords": [
+          "international and foreign affairs",
+          "digital",
+          "technology",
+          "innovation"
+        ]
+      },
+      {
+        "name": "Mitigating Proliferation Risks Posed by Artificial Intelligence Enabled Molecular Models and Leveraging Nonproliferation Opportunities",
+        "original_category": "International and Foreign Affairs",
+        "business_category": "technology",
+        "amount": "Up to $$4,000,000",
+        "grant_type": "Monetary",
+        "deadline": "11/13/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 0,
+          "financial_literacy": 0,
+          "technology": 2,
+          "youth_empowerment": 0,
+          "community_development": 0,
+          "overall_score": 2
+        },
+        "relevance_score": 2,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.542031",
+        "priority": "MEDIUM",
+        "focus": "Technology innovation and digital advancement - International and Foreign Affairs",
+        "keywords": [
+          "international and foreign affairs",
+          "digital",
+          "technology",
+          "innovation"
+        ]
+      },
+      {
+        "name": "Office of Elementary and Secondary Education (OESE): Office of Migrant Education (OME): College Assistance Migrant Program (CAMP), Assistance Listing Numbers 84.149A",
+        "original_category": "International and Foreign Affairs",
+        "business_category": "technology",
+        "amount": "$$180,000 - $$475,000",
+        "grant_type": "Monetary",
+        "deadline": "11/13/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 0,
+          "financial_literacy": 0,
+          "technology": 1,
+          "youth_empowerment": 1,
+          "community_development": 0,
+          "overall_score": 2
+        },
+        "relevance_score": 2,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.542050",
+        "priority": "MEDIUM",
+        "focus": "Technology innovation and digital advancement - International and Foreign Affairs",
+        "keywords": [
+          "technology",
+          "education",
+          "innovation",
+          "international and foreign affairs",
+          "program",
+          "digital"
+        ]
+      },
+      {
+        "name": "BWP: Community Partnerships",
+        "original_category": "International and Foreign Affairs",
+        "business_category": "technology",
+        "amount": "Varies",
+        "grant_type": "Monetary",
+        "deadline": "11/16/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 0,
+          "financial_literacy": 0,
+          "technology": 1,
+          "youth_empowerment": 0,
+          "community_development": 1,
+          "overall_score": 2
+        },
+        "relevance_score": 2,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.542064",
+        "priority": "MEDIUM",
+        "focus": "Technology innovation and digital advancement - International and Foreign Affairs",
+        "keywords": [
+          "technology",
+          "community",
+          "innovation",
+          "international and foreign affairs",
+          "digital"
+        ]
+      },
+      {
+        "name": "Collaborative Research (351497)",
+        "original_category": "International and Foreign Affairs",
+        "business_category": "technology",
+        "amount": "Up to $$300,000",
+        "grant_type": "Monetary",
+        "deadline": "11/21/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 0,
+          "financial_literacy": 0,
+          "technology": 1,
+          "youth_empowerment": 0,
+          "community_development": 0,
+          "overall_score": 1
+        },
+        "relevance_score": 1,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.542077",
+        "priority": "LOW",
+        "focus": "Technology innovation and digital advancement - International and Foreign Affairs",
+        "keywords": [
+          "international and foreign affairs",
+          "digital",
+          "technology",
+          "innovation"
+        ]
+      },
+      {
+        "name": "Transformative Organizing Grants",
+        "original_category": "International and Foreign Affairs",
+        "business_category": "technology",
+        "amount": "$$15,000 - $$25,000",
+        "grant_type": "Monetary",
+        "deadline": "11/28/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 0,
+          "financial_literacy": 0,
+          "technology": 1,
+          "youth_empowerment": 0,
+          "community_development": 0,
+          "overall_score": 1
+        },
+        "relevance_score": 1,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.542090",
+        "priority": "LOW",
+        "focus": "Technology innovation and digital advancement - International and Foreign Affairs",
+        "keywords": [
+          "international and foreign affairs",
+          "digital",
+          "technology",
+          "innovation"
+        ]
+      },
+      {
+        "name": "Ockenden International Prizes",
+        "original_category": "International and Foreign Affairs",
+        "business_category": "technology",
+        "amount": "£25,000",
+        "grant_type": "Monetary",
+        "deadline": "11/30/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 0,
+          "financial_literacy": 0,
+          "technology": 1,
+          "youth_empowerment": 0,
+          "community_development": 0,
+          "overall_score": 1
+        },
+        "relevance_score": 1,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.542107",
+        "priority": "LOW",
+        "focus": "Technology innovation and digital advancement - International and Foreign Affairs",
+        "keywords": [
+          "international and foreign affairs",
+          "digital",
+          "technology",
+          "innovation"
+        ]
+      },
+      {
+        "name": "United Nations Democracy Fund Grant",
+        "original_category": "International and Foreign Affairs",
+        "business_category": "technology",
+        "amount": "$$100,000 - $$200,000",
+        "grant_type": "Monetary",
+        "deadline": "11/30/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 0,
+          "financial_literacy": 0,
+          "technology": 1,
+          "youth_empowerment": 0,
+          "community_development": 0,
+          "overall_score": 1
+        },
+        "relevance_score": 1,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.542120",
+        "priority": "LOW",
+        "focus": "Technology innovation and digital advancement - International and Foreign Affairs",
+        "keywords": [
+          "international and foreign affairs",
+          "digital",
+          "technology",
+          "innovation"
+        ]
+      }
+    ],
+    "youth_empowerment": [
+      {
+        "name": "Equity in Mathematics Grant (PK-6)",
+        "original_category": "Education",
+        "business_category": "youth_empowerment",
+        "amount": "Up to $$8,000",
+        "grant_type": "Monetary",
+        "deadline": "11/1/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 1,
+          "financial_literacy": 1,
+          "technology": 0,
+          "youth_empowerment": 3,
+          "community_development": 0,
+          "overall_score": 5
+        },
+        "relevance_score": 5,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.540903",
+        "priority": "HIGH",
+        "focus": "Youth development and educational support - Education",
+        "keywords": [
+          "youth development",
+          "education",
+          "learning"
+        ]
+      },
+      {
+        "name": "Equity in Mathematics Grants (6-12)",
+        "original_category": "Education",
+        "business_category": "youth_empowerment",
+        "amount": "Up to $$8,000",
+        "grant_type": "Monetary",
+        "deadline": "11/1/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 1,
+          "financial_literacy": 1,
+          "technology": 0,
+          "youth_empowerment": 3,
+          "community_development": 0,
+          "overall_score": 5
+        },
+        "relevance_score": 5,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.540918",
+        "priority": "HIGH",
+        "focus": "Youth development and educational support - Education",
+        "keywords": [
+          "youth development",
+          "education",
+          "learning"
+        ]
+      },
+      {
+        "name": "Fitzgerald Foundation Grant",
+        "original_category": "Education",
+        "business_category": "youth_empowerment",
+        "amount": "Varies",
+        "grant_type": "Monetary",
+        "deadline": "N/A",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 0,
+          "financial_literacy": 1,
+          "technology": 0,
+          "youth_empowerment": 3,
+          "community_development": 0,
+          "overall_score": 4
+        },
+        "relevance_score": 4,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.540932",
+        "priority": "HIGH",
+        "focus": "Youth development and educational support - Education",
+        "keywords": [
+          "youth development",
+          "education",
+          "learning"
+        ]
+      },
+      {
+        "name": "Office of Elementary and Secondary Education (OESE): Office of Migrant Education (OME): High School Equivalency Program (HEP), Assistance Listing Numbers 84.141A",
+        "original_category": "Education",
+        "business_category": "youth_empowerment",
+        "amount": "$$180,000 - $$475,000",
+        "grant_type": "Monetary",
+        "deadline": "11/13/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 0,
+          "financial_literacy": 1,
+          "technology": 0,
+          "youth_empowerment": 4,
+          "community_development": 0,
+          "overall_score": 5
+        },
+        "relevance_score": 5,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.540951",
+        "priority": "HIGH",
+        "focus": "Youth development and educational support - Education",
+        "keywords": [
+          "program",
+          "youth development",
+          "education",
+          "learning"
+        ]
+      },
+      {
+        "name": "Kathleen Patton Westby Foundation Grant",
+        "original_category": "Education",
+        "business_category": "youth_empowerment",
+        "amount": "Varies",
+        "grant_type": "Monetary",
+        "deadline": "N/A",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 0,
+          "financial_literacy": 1,
+          "technology": 0,
+          "youth_empowerment": 3,
+          "community_development": 0,
+          "overall_score": 4
+        },
+        "relevance_score": 4,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.540966",
+        "priority": "HIGH",
+        "focus": "Youth development and educational support - Education",
+        "keywords": [
+          "youth development",
+          "education",
+          "learning"
+        ]
+      },
+      {
+        "name": "United Way of the CSRA Grants",
+        "original_category": "Education",
+        "business_category": "youth_empowerment",
+        "amount": "Varies",
+        "grant_type": "Monetary",
+        "deadline": "11/30/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 0,
+          "financial_literacy": 1,
+          "technology": 0,
+          "youth_empowerment": 3,
+          "community_development": 0,
+          "overall_score": 4
+        },
+        "relevance_score": 4,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.540978",
+        "priority": "HIGH",
+        "focus": "Youth development and educational support - Education",
+        "keywords": [
+          "youth development",
+          "education",
+          "learning"
+        ]
+      },
+      {
+        "name": "Truist Foundation Grants",
+        "original_category": "Education",
+        "business_category": "youth_empowerment",
+        "amount": "Varies",
+        "grant_type": "Monetary",
+        "deadline": "11/30/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 0,
+          "financial_literacy": 1,
+          "technology": 0,
+          "youth_empowerment": 3,
+          "community_development": 0,
+          "overall_score": 4
+        },
+        "relevance_score": 4,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.540992",
+        "priority": "HIGH",
+        "focus": "Youth development and educational support - Education",
+        "keywords": [
+          "youth development",
+          "education",
+          "learning"
+        ]
+      },
+      {
+        "name": "Every Kid Outdoors Small Grants Program",
+        "original_category": "Education",
+        "business_category": "youth_empowerment",
+        "amount": "Up to $$5,000",
+        "grant_type": "Monetary",
+        "deadline": "12/1/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 0,
+          "financial_literacy": 1,
+          "technology": 0,
+          "youth_empowerment": 3,
+          "community_development": 0,
+          "overall_score": 4
+        },
+        "relevance_score": 4,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.541004",
+        "priority": "HIGH",
+        "focus": "Youth development and educational support - Education",
+        "keywords": [
+          "program",
+          "youth development",
+          "education",
+          "learning"
+        ]
+      },
+      {
+        "name": "Cowles Charitable Trust Grant",
+        "original_category": "Education",
+        "business_category": "youth_empowerment",
+        "amount": "Up to $$10,000",
+        "grant_type": "Monetary",
+        "deadline": "12/1/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 0,
+          "financial_literacy": 1,
+          "technology": 0,
+          "youth_empowerment": 3,
+          "community_development": 0,
+          "overall_score": 4
+        },
+        "relevance_score": 4,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.541017",
+        "priority": "HIGH",
+        "focus": "Youth development and educational support - Education",
+        "keywords": [
+          "youth development",
+          "education",
+          "learning"
+        ]
+      },
+      {
+        "name": "Advance Cross-Sector Partnerships for Adolescents",
+        "original_category": "Education",
+        "business_category": "youth_empowerment",
+        "amount": "Approximately $$200,000",
+        "grant_type": "Monetary",
+        "deadline": "12/2/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 0,
+          "financial_literacy": 1,
+          "technology": 0,
+          "youth_empowerment": 3,
+          "community_development": 0,
+          "overall_score": 4
+        },
+        "relevance_score": 4,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.541030",
+        "priority": "HIGH",
+        "focus": "Youth development and educational support - Education",
+        "keywords": [
+          "youth development",
+          "education",
+          "learning"
+        ]
+      },
+      {
+        "name": "Research Grants on Education: Small",
+        "original_category": "Education",
+        "business_category": "youth_empowerment",
+        "amount": "Up to $$50,000",
+        "grant_type": "Monetary",
+        "deadline": "N/A",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 0,
+          "financial_literacy": 1,
+          "technology": 0,
+          "youth_empowerment": 3,
+          "community_development": 0,
+          "overall_score": 4
+        },
+        "relevance_score": 4,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.541042",
+        "priority": "HIGH",
+        "focus": "Youth development and educational support - Education",
+        "keywords": [
+          "youth development",
+          "education",
+          "learning"
+        ]
+      },
+      {
+        "name": "Kroger Foundation: Donation Request",
+        "original_category": "Education",
+        "business_category": "youth_empowerment",
+        "amount": "Varies",
+        "grant_type": "Monetary",
+        "deadline": "12/4/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 0,
+          "financial_literacy": 1,
+          "technology": 0,
+          "youth_empowerment": 3,
+          "community_development": 0,
+          "overall_score": 4
+        },
+        "relevance_score": 4,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.541054",
+        "priority": "HIGH",
+        "focus": "Youth development and educational support - Education",
+        "keywords": [
+          "youth development",
+          "education",
+          "learning"
+        ]
+      },
+      {
+        "name": "State Media Assistance Grant",
+        "original_category": "Education",
+        "business_category": "youth_empowerment",
+        "amount": "Varies",
+        "grant_type": "Monetary",
+        "deadline": "12/10/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 0,
+          "financial_literacy": 1,
+          "technology": 0,
+          "youth_empowerment": 3,
+          "community_development": 0,
+          "overall_score": 4
+        },
+        "relevance_score": 4,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.541066",
+        "priority": "HIGH",
+        "focus": "Youth development and educational support - Education",
+        "keywords": [
+          "youth development",
+          "education",
+          "learning"
+        ]
+      },
+      {
+        "name": "Imlay Foundation Grants",
+        "original_category": "Education",
+        "business_category": "youth_empowerment",
+        "amount": "$$10,000 - $$15,000",
+        "grant_type": "Monetary",
+        "deadline": "12/15/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 0,
+          "financial_literacy": 1,
+          "technology": 0,
+          "youth_empowerment": 3,
+          "community_development": 0,
+          "overall_score": 4
+        },
+        "relevance_score": 4,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.541077",
+        "priority": "HIGH",
+        "focus": "Youth development and educational support - Education",
+        "keywords": [
+          "youth development",
+          "education",
+          "learning"
+        ]
+      },
+      {
+        "name": "WestPoint Fund Grant",
+        "original_category": "Education",
+        "business_category": "youth_empowerment",
+        "amount": "$$3,000 - $$5,000",
+        "grant_type": "Monetary",
+        "deadline": "12/29/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 0,
+          "financial_literacy": 1,
+          "technology": 0,
+          "youth_empowerment": 3,
+          "community_development": 0,
+          "overall_score": 4
+        },
+        "relevance_score": 4,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.541091",
+        "priority": "HIGH",
+        "focus": "Youth development and educational support - Education",
+        "keywords": [
+          "youth development",
+          "education",
+          "learning"
+        ]
+      },
+      {
+        "name": "J.B. Hunt Transport Services: Company Giving",
+        "original_category": "Education",
+        "business_category": "youth_empowerment",
+        "amount": "Varies",
+        "grant_type": "Monetary",
+        "deadline": "12/29/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 0,
+          "financial_literacy": 1,
+          "technology": 0,
+          "youth_empowerment": 3,
+          "community_development": 0,
+          "overall_score": 4
+        },
+        "relevance_score": 4,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.541103",
+        "priority": "HIGH",
+        "focus": "Youth development and educational support - Education",
+        "keywords": [
+          "youth development",
+          "education",
+          "learning"
+        ]
+      },
+      {
+        "name": "CFCG: Nonprofit Grant Program",
+        "original_category": "Education",
+        "business_category": "youth_empowerment",
+        "amount": "Up to $$25,000",
+        "grant_type": "Monetary",
+        "deadline": "12/31/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 0,
+          "financial_literacy": 1,
+          "technology": 0,
+          "youth_empowerment": 3,
+          "community_development": 0,
+          "overall_score": 4
+        },
+        "relevance_score": 4,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.541116",
+        "priority": "HIGH",
+        "focus": "Youth development and educational support - Education",
+        "keywords": [
+          "program",
+          "youth development",
+          "education",
+          "learning"
+        ]
+      },
+      {
+        "name": "Macon Area Habitat for Humanity Sustainability Fund Grant",
+        "original_category": "Education",
+        "business_category": "youth_empowerment",
+        "amount": "Up to $$500",
+        "grant_type": "Monetary",
+        "deadline": "12/31/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 0,
+          "financial_literacy": 1,
+          "technology": 1,
+          "youth_empowerment": 3,
+          "community_development": 0,
+          "overall_score": 5
+        },
+        "relevance_score": 5,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.541130",
+        "priority": "HIGH",
+        "focus": "Youth development and educational support - Education",
+        "keywords": [
+          "youth development",
+          "education",
+          "learning"
+        ]
+      },
+      {
+        "name": "GEICO Philanthropic Foundation Grant",
+        "original_category": "Education",
+        "business_category": "youth_empowerment",
+        "amount": "Varies",
+        "grant_type": "Monetary",
+        "deadline": "12/31/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 0,
+          "financial_literacy": 1,
+          "technology": 0,
+          "youth_empowerment": 3,
+          "community_development": 0,
+          "overall_score": 4
+        },
+        "relevance_score": 4,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.541142",
+        "priority": "HIGH",
+        "focus": "Youth development and educational support - Education",
+        "keywords": [
+          "youth development",
+          "education",
+          "learning"
+        ]
+      },
+      {
+        "name": "Versafund Grant Program: Catalyst Grant",
+        "original_category": "Education",
+        "business_category": "youth_empowerment",
+        "amount": "$$2,500 - $$10,000",
+        "grant_type": "Monetary",
+        "deadline": "1/1/2025",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 0,
+          "financial_literacy": 1,
+          "technology": 0,
+          "youth_empowerment": 3,
+          "community_development": 0,
+          "overall_score": 4
+        },
+        "relevance_score": 4,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.541157",
+        "priority": "HIGH",
+        "focus": "Youth development and educational support - Education",
+        "keywords": [
+          "program",
+          "youth development",
+          "education",
+          "learning"
+        ]
+      },
+      {
+        "name": "Versafund Grant Program: Venture Grant",
+        "original_category": "Education",
+        "business_category": "youth_empowerment",
+        "amount": "$$10,001 - $$40,000",
+        "grant_type": "Monetary",
+        "deadline": "1/1/2025",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 0,
+          "financial_literacy": 1,
+          "technology": 0,
+          "youth_empowerment": 3,
+          "community_development": 0,
+          "overall_score": 4
+        },
+        "relevance_score": 4,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.541177",
+        "priority": "HIGH",
+        "focus": "Youth development and educational support - Education",
+        "keywords": [
+          "program",
+          "youth development",
+          "education",
+          "learning"
+        ]
+      },
+      {
+        "name": "Finish Line Youth Foundation Inc",
+        "original_category": "Health and Human Services",
+        "business_category": "youth_empowerment",
+        "amount": "Up to $$10,000",
+        "grant_type": "Monetary",
+        "deadline": "10/15/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 0,
+          "financial_literacy": 0,
+          "technology": 0,
+          "youth_empowerment": 1,
+          "community_development": 1,
+          "overall_score": 2
+        },
+        "relevance_score": 2,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.541231",
+        "priority": "MEDIUM",
+        "focus": "Youth development and educational support - Health and Human Services",
+        "keywords": [
+          "learning",
+          "health and human services",
+          "youth development",
+          "education",
+          "youth"
+        ]
+      },
+      {
+        "name": "NWRA: Rachel Fischoff Educational Scholarship",
+        "original_category": "Environmental and Animal Welfare",
+        "business_category": "youth_empowerment",
+        "amount": "$$650",
+        "grant_type": "Monetary",
+        "deadline": "11/1/2024",
+        "website": "",
+        "business_relevance": {
+          "minority_business": 0,
+          "financial_literacy": 0,
+          "technology": 0,
+          "youth_empowerment": 1,
+          "community_development": 0,
+          "overall_score": 1
+        },
+        "relevance_score": 1,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.541621",
+        "priority": "LOW",
+        "focus": "Youth development and educational support - Environmental and Animal Welfare",
+        "keywords": [
+          "youth development",
+          "education",
+          "environmental and animal welfare",
+          "learning"
+        ]
+      },
+      {
+        "name": "Sony CREATE ACTION Grants",
+        "original_category": "Youth and Family Services",
+        "business_category": "youth_empowerment",
+        "amount": "Up to $$50,000",
+        "grant_type": "Monetary",
+        "deadline": "10/1/2024",
+        "website": "",
+        "business_relevance": {
+          "minority_business": 0,
+          "financial_literacy": 0,
+          "technology": 0,
+          "youth_empowerment": 4,
+          "community_development": 0,
+          "overall_score": 4
+        },
+        "relevance_score": 4,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.541783",
+        "priority": "HIGH",
+        "focus": "Youth development and educational support - Youth and Family Services",
+        "keywords": [
+          "youth and family services",
+          "youth development",
+          "education",
+          "learning"
+        ]
+      },
+      {
+        "name": "National Days of Service Lead Agency Grants",
+        "original_category": "Youth and Family Services",
+        "business_category": "youth_empowerment",
+        "amount": "$$2,500 - $$5,000",
+        "grant_type": "Monetary",
+        "deadline": "10/27/2024",
+        "website": "",
+        "business_relevance": {
+          "minority_business": 0,
+          "financial_literacy": 0,
+          "technology": 0,
+          "youth_empowerment": 4,
+          "community_development": 0,
+          "overall_score": 4
+        },
+        "relevance_score": 4,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.541797",
+        "priority": "HIGH",
+        "focus": "Youth development and educational support - Youth and Family Services",
+        "keywords": [
+          "youth and family services",
+          "youth development",
+          "education",
+          "learning"
+        ]
+      }
+    ],
+    "community_development": [
+      {
+        "name": "Community Foundation for Greater Atlanta",
+        "original_category": "Arts and Culture",
+        "business_category": "community_development",
+        "amount": "$25,000",
+        "grant_type": "Monetary",
+        "deadline": "10/11/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 0,
+          "financial_literacy": 0,
+          "technology": 0,
+          "youth_empowerment": 0,
+          "community_development": 1,
+          "overall_score": 1
+        },
+        "relevance_score": 1,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.540654",
+        "priority": "LOW",
+        "focus": "Community development and local impact - Arts and Culture",
+        "keywords": [
+          "community",
+          "local impact",
+          "neighborhood",
+          "arts and culture",
+          "community development"
+        ]
+      },
+      {
+        "name": "Community Foundation of Central Georgia",
+        "original_category": "Arts and Culture",
+        "business_category": "community_development",
+        "amount": "$5,000",
+        "grant_type": "Monetary",
+        "deadline": "10/15/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 0,
+          "financial_literacy": 0,
+          "technology": 0,
+          "youth_empowerment": 0,
+          "community_development": 1,
+          "overall_score": 1
+        },
+        "relevance_score": 1,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.540705",
+        "priority": "LOW",
+        "focus": "Community development and local impact - Arts and Culture",
+        "keywords": [
+          "community",
+          "local impact",
+          "neighborhood",
+          "arts and culture",
+          "community development"
+        ]
+      },
+      {
+        "name": "Community Foundation of South Georgia",
+        "original_category": "Arts and Culture",
+        "business_category": "community_development",
+        "amount": "$5,000",
+        "grant_type": "Monetary",
+        "deadline": "10/16/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 0,
+          "financial_literacy": 0,
+          "technology": 0,
+          "youth_empowerment": 0,
+          "community_development": 1,
+          "overall_score": 1
+        },
+        "relevance_score": 1,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.540752",
+        "priority": "LOW",
+        "focus": "Community development and local impact - Arts and Culture",
+        "keywords": [
+          "community",
+          "local impact",
+          "neighborhood",
+          "arts and culture",
+          "community development"
+        ]
+      },
+      {
+        "name": "Community Foundation for the Central Savannah River Area",
+        "original_category": "Arts and Culture",
+        "business_category": "community_development",
+        "amount": "unspecified",
+        "grant_type": "Monetary",
+        "deadline": "10/27/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 0,
+          "financial_literacy": 0,
+          "technology": 0,
+          "youth_empowerment": 0,
+          "community_development": 1,
+          "overall_score": 1
+        },
+        "relevance_score": 1,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.540793",
+        "priority": "LOW",
+        "focus": "Community development and local impact - Arts and Culture",
+        "keywords": [
+          "community",
+          "local impact",
+          "neighborhood",
+          "arts and culture",
+          "community development"
+        ]
+      },
+      {
+        "name": "Community Foundation for Greater Rome",
+        "original_category": "Arts and Culture",
+        "business_category": "community_development",
+        "amount": "$25,000",
+        "grant_type": "Monetary",
+        "deadline": "11/1/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 0,
+          "financial_literacy": 0,
+          "technology": 0,
+          "youth_empowerment": 0,
+          "community_development": 1,
+          "overall_score": 1
+        },
+        "relevance_score": 1,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.540842",
+        "priority": "LOW",
+        "focus": "Community development and local impact - Arts and Culture",
+        "keywords": [
+          "community",
+          "local impact",
+          "neighborhood",
+          "arts and culture",
+          "community development"
+        ]
+      },
+      {
+        "name": "Southface Institute",
+        "original_category": "Health and Human Services",
+        "business_category": "community_development",
+        "amount": "Up to $$75,000",
+        "grant_type": "Monetary",
+        "deadline": "11/29/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 0,
+          "financial_literacy": 0,
+          "technology": 0,
+          "youth_empowerment": 0,
+          "community_development": 1,
+          "overall_score": 1
+        },
+        "relevance_score": 1,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.541190",
+        "priority": "LOW",
+        "focus": "Community development and local impact - Health and Human Services",
+        "keywords": [
+          "neighborhood",
+          "local impact",
+          "health and human services",
+          "community development"
+        ]
+      },
+      {
+        "name": "US Dept. of Health & Human Services: National Institutes of Health (NIH)",
+        "original_category": "Health and Human Services",
+        "business_category": "community_development",
+        "amount": "Up to $$100,000",
+        "grant_type": "Monetary",
+        "deadline": "10/12/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 0,
+          "financial_literacy": 0,
+          "technology": 0,
+          "youth_empowerment": 0,
+          "community_development": 1,
+          "overall_score": 1
+        },
+        "relevance_score": 1,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.541205",
+        "priority": "LOW",
+        "focus": "Community development and local impact - Health and Human Services",
+        "keywords": [
+          "neighborhood",
+          "local impact",
+          "health and human services",
+          "community development"
+        ]
+      },
+      {
+        "name": "Pfizer, Inc.",
+        "original_category": "Health and Human Services",
+        "business_category": "community_development",
+        "amount": "Up to $$50,000",
+        "grant_type": "Monetary",
+        "deadline": "10/15/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 0,
+          "financial_literacy": 0,
+          "technology": 0,
+          "youth_empowerment": 0,
+          "community_development": 1,
+          "overall_score": 1
+        },
+        "relevance_score": 1,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.541218",
+        "priority": "LOW",
+        "focus": "Community development and local impact - Health and Human Services",
+        "keywords": [
+          "neighborhood",
+          "local impact",
+          "health and human services",
+          "community development"
+        ]
+      },
+      {
+        "name": "Walmart",
+        "original_category": "Health and Human Services",
+        "business_category": "community_development",
+        "amount": "$$250 - $$5,000",
+        "grant_type": "Monetary",
+        "deadline": "10/15/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 0,
+          "financial_literacy": 0,
+          "technology": 0,
+          "youth_empowerment": 0,
+          "community_development": 1,
+          "overall_score": 1
+        },
+        "relevance_score": 1,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.541243",
+        "priority": "LOW",
+        "focus": "Community development and local impact - Health and Human Services",
+        "keywords": [
+          "neighborhood",
+          "local impact",
+          "health and human services",
+          "community development"
+        ]
+      },
+      {
+        "name": "Warren Alpert Foundation",
+        "original_category": "Health and Human Services",
+        "business_category": "community_development",
+        "amount": "More than $$25,000",
+        "grant_type": "Monetary",
+        "deadline": "10/15/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 0,
+          "financial_literacy": 0,
+          "technology": 0,
+          "youth_empowerment": 0,
+          "community_development": 1,
+          "overall_score": 1
+        },
+        "relevance_score": 1,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.541258",
+        "priority": "LOW",
+        "focus": "Community development and local impact - Health and Human Services",
+        "keywords": [
+          "neighborhood",
+          "local impact",
+          "health and human services",
+          "community development"
+        ]
+      },
+      {
+        "name": "The Comis Foundation",
+        "original_category": "Health and Human Services",
+        "business_category": "community_development",
+        "amount": "$$5,000 - $$75,000",
+        "grant_type": "Monetary",
+        "deadline": "Rolling",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 0,
+          "financial_literacy": 0,
+          "technology": 0,
+          "youth_empowerment": 0,
+          "community_development": 1,
+          "overall_score": 1
+        },
+        "relevance_score": 1,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.541285",
+        "priority": "LOW",
+        "focus": "Community development and local impact - Health and Human Services",
+        "keywords": [
+          "neighborhood",
+          "local impact",
+          "health and human services",
+          "community development"
+        ]
+      },
+      {
+        "name": "Burroughs Wellcome Fund",
+        "original_category": "Health and Human Services",
+        "business_category": "community_development",
+        "amount": "$$2,500 - $$50,000",
+        "grant_type": "Monetary",
+        "deadline": "10/24/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 0,
+          "financial_literacy": 0,
+          "technology": 0,
+          "youth_empowerment": 0,
+          "community_development": 1,
+          "overall_score": 1
+        },
+        "relevance_score": 1,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.541299",
+        "priority": "LOW",
+        "focus": "Community development and local impact - Health and Human Services",
+        "keywords": [
+          "neighborhood",
+          "local impact",
+          "health and human services",
+          "community development"
+        ]
+      },
+      {
+        "name": "Nordstrom",
+        "original_category": "Health and Human Services",
+        "business_category": "community_development",
+        "amount": "$$5,000 - $$20,000",
+        "grant_type": "Monetary",
+        "deadline": "10/31/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 0,
+          "financial_literacy": 0,
+          "technology": 0,
+          "youth_empowerment": 0,
+          "community_development": 1,
+          "overall_score": 1
+        },
+        "relevance_score": 1,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.541310",
+        "priority": "LOW",
+        "focus": "Community development and local impact - Health and Human Services",
+        "keywords": [
+          "neighborhood",
+          "local impact",
+          "health and human services",
+          "community development"
+        ]
+      },
+      {
+        "name": "Community Foundation of Central Georgia",
+        "original_category": "Health and Human Services",
+        "business_category": "community_development",
+        "amount": "Approximately $$24,000",
+        "grant_type": "Monetary",
+        "deadline": "11/1/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 0,
+          "financial_literacy": 0,
+          "technology": 0,
+          "youth_empowerment": 0,
+          "community_development": 2,
+          "overall_score": 2
+        },
+        "relevance_score": 2,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.541323",
+        "priority": "MEDIUM",
+        "focus": "Community development and local impact - Health and Human Services",
+        "keywords": [
+          "community",
+          "local impact",
+          "neighborhood",
+          "health and human services",
+          "community development"
+        ]
+      },
+      {
+        "name": "Changemaker Accreditation Grants",
+        "original_category": "Health and Human Services",
+        "business_category": "community_development",
+        "amount": "Varies",
+        "grant_type": "Monetary",
+        "deadline": "11/1/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 0,
+          "financial_literacy": 0,
+          "technology": 0,
+          "youth_empowerment": 0,
+          "community_development": 1,
+          "overall_score": 1
+        },
+        "relevance_score": 1,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.541336",
+        "priority": "LOW",
+        "focus": "Community development and local impact - Health and Human Services",
+        "keywords": [
+          "neighborhood",
+          "local impact",
+          "health and human services",
+          "community development"
+        ]
+      },
+      {
+        "name": "Community Food Projects Competitive Grant Program (356358)",
+        "original_category": "Health and Human Services",
+        "business_category": "community_development",
+        "amount": "$$25,000 - $$400,000",
+        "grant_type": "Monetary",
+        "deadline": "11/7/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 0,
+          "financial_literacy": 0,
+          "technology": 0,
+          "youth_empowerment": 0,
+          "community_development": 2,
+          "overall_score": 2
+        },
+        "relevance_score": 2,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.541349",
+        "priority": "MEDIUM",
+        "focus": "Community development and local impact - Health and Human Services",
+        "keywords": [
+          "community",
+          "local impact",
+          "neighborhood",
+          "health and human services",
+          "program",
+          "community development"
+        ]
+      },
+      {
+        "name": "Barclay-Giel Seed Grants",
+        "original_category": "Health and Human Services",
+        "business_category": "community_development",
+        "amount": "Up to $$10,000",
+        "grant_type": "Monetary",
+        "deadline": "11/12/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 0,
+          "financial_literacy": 0,
+          "technology": 0,
+          "youth_empowerment": 0,
+          "community_development": 1,
+          "overall_score": 1
+        },
+        "relevance_score": 1,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.541377",
+        "priority": "LOW",
+        "focus": "Community development and local impact - Health and Human Services",
+        "keywords": [
+          "neighborhood",
+          "local impact",
+          "health and human services",
+          "community development"
+        ]
+      },
+      {
+        "name": "Stimulants and HIV: Addressing Contemporary and Recurring Epidemics (R61/R33 - Clinical Trial Required)",
+        "original_category": "Health and Human Services",
+        "business_category": "community_development",
+        "amount": "Up to $$400,000",
+        "grant_type": "Monetary",
+        "deadline": "11/12/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 0,
+          "financial_literacy": 0,
+          "technology": 0,
+          "youth_empowerment": 0,
+          "community_development": 1,
+          "overall_score": 1
+        },
+        "relevance_score": 1,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.541392",
+        "priority": "LOW",
+        "focus": "Community development and local impact - Health and Human Services",
+        "keywords": [
+          "neighborhood",
+          "local impact",
+          "health and human services",
+          "community development"
+        ]
+      },
+      {
+        "name": "SeedMoney Challenge",
+        "original_category": "Health and Human Services",
+        "business_category": "community_development",
+        "amount": "$$100 - $$1,000",
+        "grant_type": "Monetary",
+        "deadline": "11/13/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 0,
+          "financial_literacy": 0,
+          "technology": 0,
+          "youth_empowerment": 0,
+          "community_development": 1,
+          "overall_score": 1
+        },
+        "relevance_score": 1,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.541407",
+        "priority": "LOW",
+        "focus": "Community development and local impact - Health and Human Services",
+        "keywords": [
+          "neighborhood",
+          "local impact",
+          "health and human services",
+          "community development"
+        ]
+      },
+      {
+        "name": "NIDA Mentored Clinical Scientist Development Program Award in Substance Use and Substance Use Disorder Research (K12 Clinical Trial Optional) (351679)",
+        "original_category": "Health and Human Services",
+        "business_category": "community_development",
+        "amount": "Up to $$750,000",
+        "grant_type": "Monetary",
+        "deadline": "11/13/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 0,
+          "financial_literacy": 1,
+          "technology": 0,
+          "youth_empowerment": 0,
+          "community_development": 2,
+          "overall_score": 3
+        },
+        "relevance_score": 3,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.541422",
+        "priority": "MEDIUM",
+        "focus": "Community development and local impact - Health and Human Services",
+        "keywords": [
+          "local impact",
+          "neighborhood",
+          "development",
+          "health and human services",
+          "program",
+          "community development"
+        ]
+      },
+      {
+        "name": "Georgia Civil Money Penalty Reinvestment Funds Grant",
+        "original_category": "Health and Human Services",
+        "business_category": "community_development",
+        "amount": "Varies",
+        "grant_type": "Monetary",
+        "deadline": "11/15/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 0,
+          "financial_literacy": 0,
+          "technology": 0,
+          "youth_empowerment": 0,
+          "community_development": 1,
+          "overall_score": 1
+        },
+        "relevance_score": 1,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.541455",
+        "priority": "LOW",
+        "focus": "Community development and local impact - Health and Human Services",
+        "keywords": [
+          "neighborhood",
+          "local impact",
+          "health and human services",
+          "community development"
+        ]
+      },
+      {
+        "name": "National Coordinating Center (NCC) for AHRQs Healthcare Extension Service - State-based Solutions to Healthcare Improvement (U54)",
+        "original_category": "Health and Human Services",
+        "business_category": "community_development",
+        "amount": "Up to $$14,250,000",
+        "grant_type": "Monetary",
+        "deadline": "11/25/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 0,
+          "financial_literacy": 0,
+          "technology": 0,
+          "youth_empowerment": 0,
+          "community_development": 1,
+          "overall_score": 1
+        },
+        "relevance_score": 1,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.541471",
+        "priority": "LOW",
+        "focus": "Community development and local impact - Health and Human Services",
+        "keywords": [
+          "neighborhood",
+          "local impact",
+          "health and human services",
+          "community development"
+        ]
+      },
+      {
+        "name": "Centene Charitable Foundation Grants",
+        "original_category": "Health and Human Services",
+        "business_category": "community_development",
+        "amount": "$$300 - $$500,000",
+        "grant_type": "Monetary",
+        "deadline": "11/29/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 0,
+          "financial_literacy": 0,
+          "technology": 0,
+          "youth_empowerment": 0,
+          "community_development": 1,
+          "overall_score": 1
+        },
+        "relevance_score": 1,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.541514",
+        "priority": "LOW",
+        "focus": "Community development and local impact - Health and Human Services",
+        "keywords": [
+          "neighborhood",
+          "local impact",
+          "health and human services",
+          "community development"
+        ]
+      },
+      {
+        "name": "Community Advocacy & Partnership Engagement (CAPE) Grant",
+        "original_category": "Health and Human Services",
+        "business_category": "community_development",
+        "amount": "Varies",
+        "grant_type": "Monetary",
+        "deadline": "12/1/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 0,
+          "financial_literacy": 0,
+          "technology": 0,
+          "youth_empowerment": 0,
+          "community_development": 2,
+          "overall_score": 2
+        },
+        "relevance_score": 2,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.541527",
+        "priority": "MEDIUM",
+        "focus": "Community development and local impact - Health and Human Services",
+        "keywords": [
+          "community",
+          "local impact",
+          "neighborhood",
+          "health and human services",
+          "community development"
+        ]
+      },
+      {
+        "name": "CTF: Rooted in Justice Grants",
+        "original_category": "Health and Human Services",
+        "business_category": "community_development",
+        "amount": "$$40,000 - $$50,000",
+        "grant_type": "Monetary",
+        "deadline": "12/2/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 0,
+          "financial_literacy": 0,
+          "technology": 0,
+          "youth_empowerment": 0,
+          "community_development": 1,
+          "overall_score": 1
+        },
+        "relevance_score": 1,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.541543",
+        "priority": "LOW",
+        "focus": "Community development and local impact - Health and Human Services",
+        "keywords": [
+          "neighborhood",
+          "local impact",
+          "health and human services",
+          "community development"
+        ]
+      },
+      {
+        "name": "NWRA: Wildlife Housing Scholarship",
+        "original_category": "Environmental and Animal Welfare",
+        "business_category": "community_development",
+        "amount": "Up to $$3,000",
+        "grant_type": "Monetary",
+        "deadline": "11/1/2024",
+        "website": "",
+        "business_relevance": {
+          "minority_business": 0,
+          "financial_literacy": 0,
+          "technology": 0,
+          "youth_empowerment": 0,
+          "community_development": 1,
+          "overall_score": 1
+        },
+        "relevance_score": 1,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.541635",
+        "priority": "LOW",
+        "focus": "Community development and local impact - Environmental and Animal Welfare",
+        "keywords": [
+          "neighborhood",
+          "local impact",
+          "environmental and animal welfare",
+          "community development"
+        ]
+      },
+      {
+        "name": "Georgia Department of Community Affairs",
+        "original_category": "Community Development",
+        "business_category": "community_development",
+        "amount": "$$250,000 - $$2,500,000",
+        "grant_type": "Monetary",
+        "deadline": "10/11/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 1,
+          "financial_literacy": 2,
+          "technology": 1,
+          "youth_empowerment": 0,
+          "community_development": 5,
+          "overall_score": 9
+        },
+        "relevance_score": 9,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.541696",
+        "priority": "HIGH",
+        "focus": "Community development and local impact - Community Development",
+        "keywords": [
+          "neighborhood",
+          "local impact",
+          "community",
+          "community development"
+        ]
+      },
+      {
+        "name": "National Association Of Realtors",
+        "original_category": "Community Development",
+        "business_category": "community_development",
+        "amount": "Up to $$15,000",
+        "grant_type": "Monetary",
+        "deadline": "10/15/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 1,
+          "financial_literacy": 2,
+          "technology": 0,
+          "youth_empowerment": 0,
+          "community_development": 5,
+          "overall_score": 8
+        },
+        "relevance_score": 8,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.541711",
+        "priority": "HIGH",
+        "focus": "Community development and local impact - Community Development",
+        "keywords": [
+          "neighborhood",
+          "local impact",
+          "community development"
+        ]
+      },
+      {
+        "name": "Community Foundation of the Chattahoochee Valley",
+        "original_category": "Community Development",
+        "business_category": "community_development",
+        "amount": "$$10,000 - $$25,000",
+        "grant_type": "Monetary",
+        "deadline": "",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 1,
+          "financial_literacy": 2,
+          "technology": 0,
+          "youth_empowerment": 0,
+          "community_development": 5,
+          "overall_score": 8
+        },
+        "relevance_score": 8,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.541725",
+        "priority": "HIGH",
+        "focus": "Community development and local impact - Community Development",
+        "keywords": [
+          "neighborhood",
+          "local impact",
+          "community",
+          "community development"
+        ]
+      },
+      {
+        "name": "Lawrence Foundation",
+        "original_category": "Community Development",
+        "business_category": "community_development",
+        "amount": "More than $$5,000",
+        "grant_type": "Monetary",
+        "deadline": "",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 1,
+          "financial_literacy": 2,
+          "technology": 0,
+          "youth_empowerment": 0,
+          "community_development": 5,
+          "overall_score": 8
+        },
+        "relevance_score": 8,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.541740",
+        "priority": "HIGH",
+        "focus": "Community development and local impact - Community Development",
+        "keywords": [
+          "neighborhood",
+          "local impact",
+          "community development"
+        ]
+      },
+      {
+        "name": "The Union Home Foundation Inc",
+        "original_category": "Community Development",
+        "business_category": "community_development",
+        "amount": "$$1,000 - $$10,000",
+        "grant_type": "Monetary",
+        "deadline": "11/15/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 1,
+          "financial_literacy": 2,
+          "technology": 0,
+          "youth_empowerment": 0,
+          "community_development": 5,
+          "overall_score": 8
+        },
+        "relevance_score": 8,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.541753",
+        "priority": "HIGH",
+        "focus": "Community development and local impact - Community Development",
+        "keywords": [
+          "neighborhood",
+          "local impact",
+          "community development"
+        ]
+      },
+      {
+        "name": "Avion Solutions Inc",
+        "original_category": "Community Development",
+        "business_category": "community_development",
+        "amount": "$$5,000",
+        "grant_type": "Monetary",
+        "deadline": "11/30/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 1,
+          "financial_literacy": 2,
+          "technology": 0,
+          "youth_empowerment": 0,
+          "community_development": 5,
+          "overall_score": 8
+        },
+        "relevance_score": 8,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.541770",
+        "priority": "HIGH",
+        "focus": "Community development and local impact - Community Development",
+        "keywords": [
+          "neighborhood",
+          "local impact",
+          "community development"
+        ]
+      },
+      {
+        "name": "Cobb County Community Services Block Grant (CSBG)",
+        "original_category": "Public Safety and Disaster Relief",
+        "business_category": "community_development",
+        "amount": "Varies",
+        "grant_type": "Monetary",
+        "deadline": "11/1/2024",
+        "website": "Website",
+        "business_relevance": {
+          "minority_business": 0,
+          "financial_literacy": 0,
+          "technology": 0,
+          "youth_empowerment": 0,
+          "community_development": 1,
+          "overall_score": 1
+        },
+        "relevance_score": 1,
+        "source": "october_grants_csv",
+        "added_date": "2025-10-03T07:06:43.541812",
+        "priority": "LOW",
+        "focus": "Community development and local impact - Public Safety and Disaster Relief",
+        "keywords": [
+          "community",
+          "local impact",
+          "neighborhood",
+          "public safety and disaster relief",
+          "community development"
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "source_file": "/home/ubuntu/upload/CopyofNonprofitGuyNationalGrantList-OctoberGrants.csv",
+    "processed_date": "2025-10-03T07:06:43.542229",
+    "total_processed": 125,
+    "relevant_found": 77
+  }
+}

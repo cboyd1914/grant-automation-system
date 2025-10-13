@@ -1,0 +1,43 @@
+2025-10-01 10:03:58,804 - __main__ - INFO - Enhanced Grant Discovery System Initialized
+2025-10-01 10:03:58,804 - __main__ - INFO - Starting enhanced grant discovery process
+2025-10-01 10:03:58,804 - __main__ - INFO - Starting enhanced grants.gov search
+2025-10-01 10:03:58,804 - __main__ - INFO - Searching for minority_business keyword: minority-owned
+2025-10-01 10:03:58,996 - __main__ - INFO - Found 1 opportunities for 'minority-owned'
+2025-10-01 10:03:59,996 - __main__ - INFO - Searching for minority_business keyword: black-owned
+2025-10-01 10:04:00,102 - __main__ - INFO - Found 0 opportunities for 'black-owned'
+2025-10-01 10:04:01,102 - __main__ - INFO - Searching for minority_business keyword: diverse entrepreneurs
+2025-10-01 10:04:01,235 - __main__ - INFO - Found 25 opportunities for 'diverse entrepreneurs'
+2025-10-01 10:04:02,236 - __main__ - INFO - Searching for minority_business keyword: BIPOC
+2025-10-01 10:04:02,345 - __main__ - INFO - Found 0 opportunities for 'BIPOC'
+2025-10-01 10:04:03,345 - __main__ - INFO - Searching for financial_literacy keyword: financial literacy
+2025-10-01 10:04:03,521 - __main__ - INFO - Found 25 opportunities for 'financial literacy'
+2025-10-01 10:04:04,521 - __main__ - INFO - Searching for financial_literacy keyword: economic empowerment
+2025-10-01 10:04:04,761 - __main__ - INFO - Found 25 opportunities for 'economic empowerment'
+2025-10-01 10:04:05,764 - __main__ - INFO - Searching for financial_literacy keyword: student loan
+2025-10-01 10:04:05,913 - __main__ - INFO - Found 25 opportunities for 'student loan'
+2025-10-01 10:04:06,913 - __main__ - INFO - Searching for financial_literacy keyword: financial education
+2025-10-01 10:04:07,100 - __main__ - INFO - Found 25 opportunities for 'financial education'
+2025-10-01 10:04:08,100 - __main__ - INFO - Searching for technology keyword: artificial intelligence
+2025-10-01 10:04:08,216 - __main__ - INFO - Found 25 opportunities for 'artificial intelligence'
+2025-10-01 10:04:09,216 - __main__ - INFO - Searching for technology keyword: AI
+2025-10-01 10:04:09,328 - __main__ - INFO - Found 25 opportunities for 'AI'
+2025-10-01 10:04:10,329 - __main__ - INFO - Searching for technology keyword: technology training
+2025-10-01 10:04:10,588 - __main__ - INFO - Found 25 opportunities for 'technology training'
+2025-10-01 10:04:11,588 - __main__ - INFO - Searching for technology keyword: digital equity
+2025-10-01 10:04:11,714 - __main__ - INFO - Found 25 opportunities for 'digital equity'
+2025-10-01 10:04:12,715 - __main__ - INFO - Searching for youth_empowerment keyword: youth development
+2025-10-01 10:04:12,880 - __main__ - INFO - Found 25 opportunities for 'youth development'
+2025-10-01 10:04:13,880 - __main__ - INFO - Searching for youth_empowerment keyword: STEM education
+2025-10-01 10:04:14,028 - __main__ - INFO - Found 25 opportunities for 'STEM education'
+2025-10-01 10:04:15,029 - __main__ - INFO - Searching for youth_empowerment keyword: educational technology
+2025-10-01 10:04:15,180 - __main__ - INFO - Found 25 opportunities for 'educational technology'
+2025-10-01 10:04:16,182 - __main__ - INFO - Searching targeted grant opportunities
+2025-10-01 10:04:16,183 - __main__ - INFO - Processing minority_business grants
+2025-10-01 10:04:16,183 - __main__ - INFO - Processing financial_literacy grants
+2025-10-01 10:04:16,183 - __main__ - INFO - Processing technology_workforce grants
+2025-10-01 10:04:16,183 - __main__ - INFO - Processing youth_ai_empowerment grants
+2025-10-01 10:04:16,183 - __main__ - INFO - Found 11 targeted grant opportunities
+2025-10-01 10:04:16,183 - __main__ - INFO - Searching additional grant sources
+2025-10-01 10:04:16,183 - __main__ - INFO - Deduplication: 315 -> 223 grants
+2025-10-01 10:04:16,192 - __main__ - INFO - Enhanced results saved to /home/ubuntu/grant_automation/data/enhanced_grants_discovery_20251001_100416.json
+2025-10-01 10:04:16,192 - __main__ - INFO - Enhanced discovery completed successfully in 17.39 seconds
